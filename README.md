@@ -1,6 +1,11 @@
 # 中国大模型列表
 
-旨在记录中国大模型发展情况，欢迎给线索给材料给Pr给Issue
+旨在记录中国大模型发展情况，欢迎提供
+- *线索*
+- *材料*
+- *PR*
+- *Issue*
+
 
 
 ## 大模型列表
@@ -124,6 +129,7 @@
 |Meta|[LLaMA](https://github.com/facebookresearch/llama)||
 |Stability AI|[StableLM](https://github.com/Stability-AI/StableLM)||
 |Amazon|[Titan](https://aws.amazon.com/cn/bedrock/titan/)|
+|Bloomberg|[BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)||
 
 
 
