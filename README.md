@@ -11,12 +11,12 @@
 |2|科大讯飞| [星火](https://xinghuo.xfyun.cn)| |
 |3|达观数据| [曹植](http://www.datagrand.com/products/aigc/)| |
 |4|阿里云| [通义千问](https://tongyi.aliyun.com/)| |
-|5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|需要邀请码|的[试用链接](https://moss.fastnlp.top/)|
-|6|清华大学| [ChatGLM](https://chatglm.cn/)|[开源6B](https://|github.com/THUDM/ChatGLM-6B) [智谱AI](http://open.bigmodel.|ai/)|
-|7|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| |
+|5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|[试用链接](https://moss.fastnlp.top/)|
+|6|清华大学| [ChatGLM](https://chatglm.cn/) | |
+|7|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/) |
 |8|商汤科技 | [日日新](https://techday.sensetime.com/list)| |
 |9|360| [智脑](https://ai.360.cn/)| |
-|10|澜舟科技| [孟子](https://www.langboat.com/portal/|mengzi-model) | |
+|10|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | |
 |11|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)||
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|面壁智能,智源|
 |13|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)||
