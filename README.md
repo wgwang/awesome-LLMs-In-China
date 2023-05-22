@@ -25,10 +25,10 @@
 |11|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)||
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|面壁智能,智源|
 |13|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)||
-|15| | | |
-|16| | | |
-|17| | | |
-|18| | | |
+|15|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) | |
+|16|云知声|[山海](https://shanhai.unisound.com/) | |
+|17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)| |
+|18| 循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|循环智能,清华大学,华为 |
 |19| | | |
 |20| | | |
 |21| | | |
@@ -117,6 +117,21 @@
 |:-|:-|:-|
 |知乎|知海图|知乎和面壁科技合作|
 |晓多科技|晓模型XPT||
+|国家超级计算天津中心|天河天元||
+|台智云|福尔摩斯|华硕子公司台智云|
+|华山医院|Uni-talk|上海联通携手华山医院、上海超算中心和华为公司联合组建成立了上海市算力网络数字医疗创新实验室|
+|中科创达|魔方Rubik||
+|电信智科|星河|星河通用视觉大模型2.0|
+|慧言科技|海河·谛听|慧言科技联合天津大学,言语交互意图深度理解大模型|
+|智慧眼|砭石|医疗领域文本、图像、视频和音频输入|
+|乐言科技|乐言||
+|中科闻歌|雅意||
+|出门问问|序列猴子||
+|华为|盘古||
+|腾讯|混元||
+
+
+
 
 
 ## 国外大模型
@@ -130,6 +145,7 @@
 |Stability AI|[StableLM](https://github.com/Stability-AI/StableLM)||
 |Amazon|[Titan](https://aws.amazon.com/cn/bedrock/titan/)|
 |Bloomberg|[BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)||
+|MosaicML|[MPT](https://www.mosaicml.com/blog/mpt-7b)|
 
 
 
