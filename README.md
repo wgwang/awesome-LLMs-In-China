@@ -25,8 +25,9 @@
 |11|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|广东广州||
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|北京|[面壁智能](https://modelbest.cn/),智源|
 |13|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)|北京||
+|14|云知声|[山海](https://shanhai.unisound.com/) | 北京||
 |15|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京| |
-|16|云知声|[山海](https://shanhai.unisound.com/) | 北京||
+|16|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京| |
 |17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京| |
 |18| 循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|北京|循环智能,清华大学,华为 |
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳| |
@@ -35,7 +36,7 @@
 |22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|基于BLOOM-176B|
 |23|出门问问|[序列猴子](https://write.mobvoi.com/) |北京 | |
 |24|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|流体力学大模型,湍流+流场 |
-|25|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京| |
+|25| | | |
 |26| | | |
 |27| | | |
 |28| | | |
