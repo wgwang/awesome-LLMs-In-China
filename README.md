@@ -18,7 +18,7 @@
 |4|阿里云| [通义千问](https://tongyi.aliyun.com/)|浙江杭州| |
 |5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|上海|[试用链接](https://moss.fastnlp.top/)|
 |6|清华大学| [ChatGLM](https://chatglm.cn/) |北京| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/)|
-|7|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京| |
+|7|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|昆仑万维与奇点智源联合研发|
 |8|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海| |
 |9|360| [智脑](https://ai.360.cn/)| 北京||
 |10|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京||
@@ -36,7 +36,7 @@
 |22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|基于BLOOM-176B|
 |23|出门问问|[序列猴子](https://write.mobvoi.com/) |北京 | |
 |24|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|流体力学大模型,湍流+流场 |
-|25| | | |
+|25|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |26| | | |
 |27| | | |
 |28| | | |
