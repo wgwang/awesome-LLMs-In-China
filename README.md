@@ -22,19 +22,19 @@
 |8|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海|✔| |
 |9|360| [智脑](https://ai.360.cn/)| 北京|✔||
 |10|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
-|11|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|广东广州|✔||
+|11|智源人工智能研究院 |[悟道·天鹰AQUILA](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，未发布模型|
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|北京|✔|[面壁智能](https://modelbest.cn/),智源|
-|13|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)|北京|✔||
+|13|上海人工智能实验室|[书生·浦语](https://internlm.org/) |上海|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),上海AI实验室+商汤+港中文+复旦+上海交大|
 |14|云知声|[山海](https://shanhai.unisound.com/) | 北京|✔||
 |15|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京|✔| |
 |16|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|✔| |
 |17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|✔| |
-|18| 循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|北京|✔|循环智能,清华大学,华为 |
+|18|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|✔|基于BLOOM，开源|
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|✔| |
 |20|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
 |21|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/) |台湾|✔|华硕子公司|
 |22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM-176B|
-|23|出门问问|[序列猴子](https://write.mobvoi.com/) |北京 |✔| |
+|23|华南理工大学未来技术学院|ProactiveHealthGPT,[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|✔| |
 |24|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |25|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |26| 超对称技术公司| [乾元](https://bbt.ssymmetry.com/)|北京|✔||
@@ -42,14 +42,14 @@
 |28|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|✔| |
 |29|晓多科技+国家超算成都中心|[晓模型XPT](https://www.xiaoduoai.com/blog/12433.html)|四川成都|✘||
 |30|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
-|31|中国农业银行|[小数ChatABC](https://mp.weixin.qq.com/s/CXyZRIqhwrcGAKxzUC-qgg) |北京|✘| |
+|31|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|✔|基于LLaMA,北语+清华+东北、北京交大|
 |32|医联科技|[medGPT](https://www.medlinker.com/news/198)|四川成都|✘| |
 |33|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)|天津|✘ | |
 |34|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|上海|✘ |无涯——金融；求索——大数据分析|
 |35|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA) |天津 |✘| |
 |36|宇视科技|[梧桐](https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ)|浙江杭州|✘|AIoT行业 |
 |37|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|北京|✘|通用视觉，中国电信| 
-|38|印象笔记|[大象GPT](https://mp.weixin.qq.com/s/O3nRSKBM29bCWKuRRi_PBg)|北京 | ✘| |
+|38|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|北京|✔|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |39|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|✘|医疗领域|
 |40|好未来|[MathGPT](https://mp.weixin.qq.com/s/evLrZAFKa9mCplcqZnpZMw) |北京|✘|学而思|
 |41|数慧时空|[长城](https://mp.weixin.qq.com/s/KYB-noOt7gB0l5hh-rwfkQ)|北京 |✘ |自然资源，遥感|
@@ -69,17 +69,17 @@
 |55|拓尔思|拓天TRSGPT|北京 |✘ | |
 |56|乐言科技|乐言 |上海 | ✘| |
 |57|清博智能 | [先问](https://mp.weixin.qq.com/s/Et-nVHjxDP3W-PFWmDo3YQ)| 北京|✘|基于结构化数据|
-|58|智子引擎 | 元乘象|江苏南京 |✘||
-|59| | | |
-|60| | | |
-|61| | | |
-|62| | | |
-|63| | | |
-|64| | | |
-|65| | | |
-|66| | | |
-|67| | | |
-|68| | | |
+|58|智子引擎 | [元乘象](https://chatimg.aixiaoqingxu.com/)|江苏南京 |✔||
+|59|拓世科技 |[拓世](https://tskjgroup.com/article_news?id=822) |江西南昌 |✘||
+|60|循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|北京|✔|循环智能,清华大学,华为 |
+|61|印象笔记|[大象GPT](https://mp.weixin.qq.com/s/O3nRSKBM29bCWKuRRi_PBg)|北京 | ✘| |
+|62|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)|北京|✔||
+|63|字节跳动 |Grace|北京|✘|内部代号|
+|64|出门问问|[序列猴子](https://write.mobvoi.com/) |北京 |✔| |
+|65|数说故事|[SocialGPT](https://mp.weixin.qq.com/s/Tt3dcwefIvdlyB_IwaFYRQ)|广东广州|✘| |
+|66|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|广东广州|✔||
+|67|电科太极 |[小可](https://mp.weixin.qq.com/s/8ci7g7R9j3pxkQC4UOLh2A) |北京|✘|党政企行业应用 |
+|68|中国农业银行|[小数ChatABC](https://mp.weixin.qq.com/s/CXyZRIqhwrcGAKxzUC-qgg) |北京|✘| |
 |69| | | |
 |70| | | |
 |71| | | |
