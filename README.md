@@ -19,20 +19,20 @@
 |5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|上海|✔|[试用链接](https://moss.fastnlp.top/)|
 |6|清华大学| [ChatGLM](https://chatglm.cn/) |北京|✔| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/)|
 |7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha)|深圳|✔|华为+鹏城|
-|8|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海|✔| |
-|9|360| [智脑](https://ai.360.cn/)| 北京|✔||
-|10|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
-|11|智源人工智能研究院 |[悟道·天鹰AQUILA](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，未发布模型|
+|8|智源人工智能研究院 |[悟道·天鹰AQUILA](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099)|
+|9|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|黑龙江哈尔滨|✔|医学；基于LLaMA；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)|
+|10|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|✔|基于BLOOMZ或LLaMA的多个模型|
+|11|百川智能|[baichuan](https://github.com/baichuan-inc/baichuan-7B)|北京|✔|开源可商用|
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|北京|✔|[面壁智能](https://modelbest.cn/),智源|
 |13|上海人工智能实验室|[书生·浦语](https://internlm.org/) |上海|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),上海AI实验室+商汤+港中文+复旦+上海交大|
 |14|云知声|[山海](https://shanhai.unisound.com/) | 北京|✔||
-|15|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京|✔| |
+|15|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
 |16|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|✔| |
-|17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|✔| |
+|17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|✔|紫东太初2.0号称100B参数，全模态|
 |18|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|✔|基于BLOOM，开源|
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|✔| |
 |20|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
-|21|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/) |台湾|✔|华硕子公司|
+|21|360| [智脑](https://ai.360.cn/)| 北京|✔||
 |22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM-176B|
 |23|华南理工大学未来技术学院|ProactiveHealthGPT,[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|✔| |
 |24|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
@@ -43,7 +43,7 @@
 |29|晓多科技+国家超算成都中心|[晓模型XPT](https://www.xiaoduoai.com/blog/12433.html)|四川成都|✘||
 |30|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
 |31|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|✔|基于LLaMA,北语+清华+东北、北京交大|
-|32|医联科技|[medGPT](https://www.medlinker.com/news/198)|四川成都|✘| |
+|32|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海|✔| |
 |33|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)|天津|✘ | |
 |34|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|上海|✘ |无涯——金融；求索——大数据分析|
 |35|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA) |天津 |✘| |
@@ -80,12 +80,12 @@
 |66|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|广东广州|✔||
 |67|电科太极 |[小可](https://mp.weixin.qq.com/s/8ci7g7R9j3pxkQC4UOLh2A) |北京|✘|党政企行业应用 |
 |68|中国农业银行|[小数ChatABC](https://mp.weixin.qq.com/s/CXyZRIqhwrcGAKxzUC-qgg) |北京|✘| |
-|69| | | |
-|70| | | |
-|71| | | |
-|72| | | |
-|73| | | |
-|74| | | |
+|69|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京|✔| |
+|70|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/) |台湾|✔|华硕子公司|
+|71|医联科技|[medGPT](https://www.medlinker.com/news/198)|四川成都|✘| |
+|72|理想汽车|MindGPT|北京 |✘| |
+|73|港中文深圳 |[华佗GPT](https://github.com/FreedomIntelligence/HuatuoGPT) |广东深圳|✔|香港中文大学（深圳）和深圳市大数据研究院，医学，技术报告没说无监督训练，也没说基于哪个基础模型,[Demo](https://www.huatuogpt.cn/)|
+|74|长虹|长虹超脑 |四川绵阳|✘| |
 |75| | | |
 |76| | | |
 |77| | | |
@@ -132,10 +132,5 @@
 |MosaicML|[MPT](https://www.mosaicml.com/blog/mpt-7b)||
 |Intel|Aurora genAI||
 |UC Berkeley, Microsoft Research|[Gorilla](https://gorilla.cs.berkeley.edu/)||
-
-
-
-
-
 
 

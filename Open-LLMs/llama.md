@@ -51,7 +51,7 @@ Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流�
 
 ## 训练数据
 
-指1.4Tokens的版本
+指1.4T Tokens的版本
 
 |Dataset|Sampling prop.|Epochs|Disk size|
 |:-|:-|:-|:-|
