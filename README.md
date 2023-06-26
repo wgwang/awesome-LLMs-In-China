@@ -6,34 +6,36 @@
 - *PR*
 - *Issue*
 
+本仓库同时持续深度分析[**开源开放的大模型**](./Open-LLMs.md)以及[数据集](./Datasets.md)的情况。
+
 
 
 ## 大模型列表
 
 |序号|公司|大模型|省市|官网|说明|
 |:-|:-|:-|:-|:-|:-|
-|1|百度| [文心一言](https://yiyan.baidu.com)|北京|✔| |
-|2|科大讯飞| [星火](https://xinghuo.xfyun.cn)|安徽合肥|✔| |
-|3|达观数据| [曹植](http://www.datagrand.com/products/aigc/)|上海|✔| |
-|4|阿里云| [通义千问](https://tongyi.aliyun.com/)|浙江杭州|✔| |
-|5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|上海|✔|[试用链接](https://moss.fastnlp.top/)|
+|1|百度| [文心一言](https://yiyan.baidu.com)|北京|✔|[试用需账号](https://yiyan.baidu.com) |
+|2|科大讯飞| [星火](https://xinghuo.xfyun.cn)|安徽合肥|✔|[试用需账号](https://xinghuo.xfyun.cn/desk) |
+|3|达观数据| [曹植](http://www.datagrand.com/products/aigc/)|上海|✔|[试用需账号](https://aigc.datagrand.com/) |
+|4|阿里云| [通义千问](https://tongyi.aliyun.com/)|浙江杭州|✔|[试用需账号]( https://tongyi.aliyun.com)|
+|5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|上海|✔|[试用需账号](https://moss.fastnlp.top/)|
 |6|清华大学| [ChatGLM](https://chatglm.cn/) |北京|✔| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/)|
-|7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha)|深圳|✔|华为+鹏城|
-|8|智源人工智能研究院 |[悟道·天鹰AQUILA](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099)|
+|7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha)|广东深圳|✔|华为+鹏城|
+|8|智源人工智能研究院 |[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099)|
 |9|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|黑龙江哈尔滨|✔|医学；基于LLaMA；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)|
 |10|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|✔|基于BLOOMZ或LLaMA的多个模型|
 |11|百川智能|[baichuan](https://github.com/baichuan-inc/baichuan-7B)|北京|✔|开源可商用|
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|北京|✔|[面壁智能](https://modelbest.cn/),智源|
 |13|上海人工智能实验室|[书生·浦语](https://internlm.org/) |上海|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),上海AI实验室+商汤+港中文+复旦+上海交大|
 |14|云知声|[山海](https://shanhai.unisound.com/) | 北京|✔||
-|15|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
+|15|东北大学|[TechGPT](https://github.com/neukg/TechGPT)|辽宁沈阳|✔|基于BELLE->LLaMA，图谱构建和阅读理解问答|
 |16|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|✔| |
 |17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|✔|紫东太初2.0号称100B参数，全模态|
-|18|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|✔|基于BLOOM，开源|
+|18|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|✔|基于BLOOM|
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|✔| |
 |20|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
-|21|360| [智脑](https://ai.360.cn/)| 北京|✔||
-|22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM-176B|
+|21|360| [智脑](https://ai.360.cn/),[一见](https://github.com/360CVGroup/SEEChat)| 北京|✔||
+|22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM|
 |23|华南理工大学未来技术学院|ProactiveHealthGPT,[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|✔| |
 |24|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |25|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
@@ -41,7 +43,7 @@
 |27|稀宇科技|[MiniMax](https://api.minimax.chat/)|上海|✔|GLOW虚拟社交， |
 |28|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|✔| |
 |29|晓多科技+国家超算成都中心|[晓模型XPT](https://www.xiaoduoai.com/blog/12433.html)|四川成都|✘||
-|30|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
+|30|中国科学院计算技术研究所|[百聆](https://github.com/ictnlp/BayLing)|北京|✔|基于 LLaMA，权重Diff下载[7B](https://huggingface.co/ICTNLP/bayling-7b-diff)和[13B](https://huggingface.co/ICTNLP/bayling-13b-diff),[demo](http://nlp.ict.ac.cn/bayling/demo/) |
 |31|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|✔|基于LLaMA,北语+清华+东北、北京交大|
 |32|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海|✔| |
 |33|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)|天津|✘ | |
@@ -63,7 +65,7 @@
 |49|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|✔|与奇点智源联合研发|| 
 |50|知乎|知海图|北京|✘ |知乎和面壁科技合作| 
 |51|医疗算网|Uni-talk|上海|✘|上海联通+华山医院+上海超算中心+华为|
-|52|孩子王|KidsGPT|江苏南京|✘| |
+|52|蚂蚁集团|贞仪|浙江杭州|✘|据传语言和多模态两个|
 |53|中科创达|魔方Rubik|北京|✘| |
 |54|腾讯|混元|广东深圳 |✘ | |
 |55|拓尔思|拓天TRSGPT|北京 |✘ | |
@@ -86,11 +88,11 @@
 |72|理想汽车|MindGPT|北京 |✘| |
 |73|港中文深圳 |[华佗GPT](https://github.com/FreedomIntelligence/HuatuoGPT) |广东深圳|✔|香港中文大学（深圳）和深圳市大数据研究院，医学，技术报告没说无监督训练，也没说基于哪个基础模型,[Demo](https://www.huatuogpt.cn/)|
 |74|长虹|长虹超脑 |四川绵阳|✘| |
-|75| | | |
-|76| | | |
-|77| | | |
-|78| | | |
-|79| | | |
+|75|孩子王|KidsGPT|江苏南京|✘| |
+|76|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
+|77|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
+|78|京东|ChatJD|北京|✘||
+|79|智臻智能|小i|上海|✘|小i机器人|
 |80| | | |
 |81| | | |
 |82| | | |

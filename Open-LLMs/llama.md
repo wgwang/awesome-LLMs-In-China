@@ -33,6 +33,19 @@ Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流�
 |32.5B|6656| 52|60|1.5e−4|4M|1.4T|530,432|
 |65.2B|8192| 64|80|1.5e−4|4M|1.4T|1,022,362|
 
+
+
+|名称|LLaMA-65B|LLaMA-33B|LLaMA-13B|LLaMA-7B|
+|:-|:-|:-|:-|:-|
+|参数规模params|65.2B|32.5B|13.0B|6.7B|
+|隐变量维度dimension|8192|6656|5120|4096|
+|自注意力头的个数n heads|64|52|40|32|
+|层数n layers|80|60|40|32|
+|词表大小Vocab size|32000|32000|32000|32000|
+|输入序列长度sequence length|2048|2048|2048|2048|
+|数据规模词元数量n tokens|1.4T|1.4T|1.0T|1.0T|
+|训练时长Training GPU-hours|1,022,362（A100）|530,432|135,168|82,432|
+
 ## 训练模型的算力设施
 
 - 65B LLaMA 模型
@@ -62,3 +75,16 @@ Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流�
 |Books         |4.5%  |2.23| 85 | GB|
 |ArXiv         |2.5%  |1.06| 92 | GB|
 |StackExchange |2.0%  |1.03| 78 | GB|
+
+
+## 模型架构
+
+
+
+- LayerNorm使用了[RMSNorm](https://arxiv.org/pdf/1910.07467.pdf)，并且通过对每个transformer子层的输入进行归一化，而不是对输出进行归一化。
+
+- 激活函数使用了[SwiGLU](https://arxiv.org/pdf/2002.05202.pdf)代替ReLU，这点和PaLM模型一样
+
+- 位置编码使用了[rotary嵌入RoPE【RoFormer: Enhanced transformer with rotary position embedding】](https://arxiv.org/pdf/2104.09864.pdf)，这点和GPTNeo一样
+
+- 在自注意力机制的实现上，由于自回归语言模型的特性，使用了causal multi-head attention，并使用了[xformers](https://github.com/facebookresearch/xformers)的实现方法。这个自注意力机制的理论来自于两篇论文[SELF-ATTENTION DOES NOT NEED $O(n^2)$ MEMORY](https://arxiv.org/pdf/2205.14135.pdf)和[FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)。

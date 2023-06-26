@@ -6,7 +6,7 @@ baichuan-7B 是由百川智能开发的一个开源非商用的大规模预训�
 
 baichuan-7B基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70亿参数模型，支持中英双语，上下文窗口长度为4096。
 
-在多个数据集的评估中，在7B（6B）规模的模型中，baichuan-7B成绩排在第一。比如，在高考数据集中，
+在多个数据集的评估中，在7B（6B）规模的模型中，baichuan-7B成绩排在第一。比如，在高考数据集中.
 
 
 ## 基础信息
@@ -17,7 +17,7 @@ baichuan-7B基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70�
 - 许可：非商业定制许可证
   - 代码许可：Apache License 2.0，允许商用，相比GPL更宽松。
   - 模型许可：[baichuan-7B模型许可协议](https://huggingface.co/baichuan-inc/baichuan-7B/resolve/main/baichuan-7B%20%E6%A8%A1%E5%9E%8B%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf) 非商业用途可直接使用，商用的话需联系邮箱“opensource@baichuan-inc.com”以获得授权。
-  - 模型许可协议目前指提供中文版本。
+  - 模型许可协议目前仅提供中文版本。
 
 
 
@@ -33,6 +33,17 @@ baichuan-7B基于 Transformer 结构，在大约1.2万亿 tokens 上训练的70�
 |:-|:-|:-|:-|:-|
 |7B |4096| 32|32|1.2T|
 
+
+|名称|baichuan-7B|
+|:-|:-|
+|参数规模params| 7B|
+|隐变量维度dimension|4096|
+|自注意力头的个数n heads|32|
+|层数n layers|32|
+|词表大小Vocab size|64,000|
+|输入序列长度sequence length|4096|
+|数据规模词元数量n tokens|1.2T|
+|训练时长Training GPU-hours||
 
 
 ## 模型下载
