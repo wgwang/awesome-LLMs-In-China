@@ -8,7 +8,8 @@
 
 本仓库同时持续深度分析[**开源开放的大模型**](./Open-LLMs.md)以及[数据集](./Datasets.md)的情况。
 
-
+扫码关注我的公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容
+![](imgs/走向未来.png)
 
 ## 大模型列表
 
@@ -26,10 +27,10 @@
 |10|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|✔|基于BLOOMZ或LLaMA的多个模型|
 |11|百川智能|[baichuan](https://github.com/baichuan-inc/baichuan-7B)|北京|✔|开源可商用|
 |12|OpenBMB|[CPM](https://live.openbmb.org/)|北京|✔|[面壁智能](https://modelbest.cn/),智源|
-|13|上海人工智能实验室|[书生·浦语](https://internlm.org/) |上海|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),上海AI实验室+商汤+港中文+复旦+上海交大|
+|13|上海人工智能实验室|[书生·浦语](https://internlm.org/), [OpenMEDLab浦医](https://github.com/openmedlab) |上海|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),上海AI实验室+商汤+港中文+复旦+上海交大|
 |14|云知声|[山海](https://shanhai.unisound.com/) | 北京|✔||
 |15|东北大学|[TechGPT](https://github.com/neukg/TechGPT)|辽宁沈阳|✔|基于BELLE->LLaMA，图谱构建和阅读理解问答|
-|16|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|✔| |
+|16|港中文深圳|[华佗](https://github.com/FreedomIntelligence/HuatuoGPT)，[凤凰](https://github.com/FreedomIntelligence/LLMZoo)|广东深圳|✔|香港中文大学（深圳）和深圳市大数据研究院，医学,[Demo](https://www.huatuogpt.cn/),华佗和凤凰都基于BLOOMZ|
 |17|中科院 | [紫东太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|✔|紫东太初2.0号称100B参数，全模态|
 |18|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|✔|基于BLOOM|
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|✔| |
@@ -49,7 +50,7 @@
 |33|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)|天津|✘ | |
 |34|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|上海|✘ |无涯——金融；求索——大数据分析|
 |35|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA) |天津 |✘| |
-|36|宇视科技|[梧桐](https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ)|浙江杭州|✘|AIoT行业 |
+|36|恒生电子|LightGPT|浙江杭州|✘| |
 |37|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|北京|✘|通用视觉，中国电信| 
 |38|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|北京|✔|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |39|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|✘|医疗领域|
@@ -86,7 +87,7 @@
 |70|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/) |台湾|✔|华硕子公司|
 |71|医联科技|[medGPT](https://www.medlinker.com/news/198)|四川成都|✘| |
 |72|理想汽车|MindGPT|北京 |✘| |
-|73|港中文深圳 |[华佗GPT](https://github.com/FreedomIntelligence/HuatuoGPT) |广东深圳|✔|香港中文大学（深圳）和深圳市大数据研究院，医学，技术报告没说无监督训练，也没说基于哪个基础模型,[Demo](https://www.huatuogpt.cn/)|
+|73|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|✔| |
 |74|长虹|长虹超脑 |四川绵阳|✘| |
 |75|孩子王|KidsGPT|江苏南京|✘| |
 |76|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
@@ -95,10 +96,10 @@
 |79|智臻智能|小i|上海|✘|小i机器人|
 |80|新华三H3C|百业灵犀|浙江杭州|✘||
 |81|鹏城实验室|鹏城·脑海|广东深圳|✘|Peng Cheng Mind|
-|82| | | |
-|83| | | |
-|84| | | |
-|85| | | |
+|82|宇视科技|[梧桐](https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ)|浙江杭州|✘|AIoT行业 |
+|83|中国联通 |鸿湖|北京|✘||
+|84|美亚柏科|[天擎](https://mp.weixin.qq.com/s/D3ki3G4Q7QZPAVJ8iwTvDg)|福建厦门 |✘|公共安全|
+|85|赛灵力科技 |达尔文|广东广州|✘|赛灵力,清华珠三角研究院,赛业生物,大湾区科技创新服务中心|
 |86| | | |
 |87| | | |
 |88| | | |
