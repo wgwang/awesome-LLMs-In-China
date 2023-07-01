@@ -59,7 +59,7 @@ Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流�
 
 - 非官方下载
   - P2P 下载：[magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA](magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA)
-  - HuggingFace [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) [LLaMA-65B](https://huggingface.co/huggyllama/llama-65b) [LLaMA-30B](https://huggingface.co/huggyllama/llama-30b) [LLaMA-13B](https://huggingface.co/huggyllama/llama-13b) [LLaMA-7B](https://huggingface.co/huggyllama/llama-7b)
+  - Hugging Face [LLaMA-65B](https://huggingface.co/datasets/nyanko7/LLaMA-65B) [LLaMA-65B](https://huggingface.co/huggyllama/llama-65b) [LLaMA-30B](https://huggingface.co/huggyllama/llama-30b) [LLaMA-13B](https://huggingface.co/huggyllama/llama-13b) [LLaMA-7B](https://huggingface.co/huggyllama/llama-7b)
 
 
 ## 训练数据
