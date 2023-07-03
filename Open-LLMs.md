@@ -17,12 +17,14 @@
 |5|Falcon|7B,40B||
 |6|MOSS|16B||
 |7|ChatGLM|6B|||
-|8|StableLM|3B,7B|||
+|8|StableLM|3B,7B|800B||
 |9|[baichuan](Open-LLMs/baichuan.md)|7B|1.2T|开放，商用需授权|
 |10|Aquila|7B,33B||悟道·天鹰|
 |11|RedPajama|3B,7B|||
 |12|GPT-NeoX|20B|800GB的[The Pile](https://arxiv.org/abs/2101.00027)数据集||
 |13|OpenLLaMA|3B,7B,13B|1T||
+|14|MPT|7B,30B|1T|
+|15|Pythia|2.8B,6.9B,12B|300B||
 
 ## 非基础大模型
 - WizardLM
