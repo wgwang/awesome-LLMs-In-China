@@ -1,6 +1,7 @@
 # 中国大模型列表
 
 旨在记录中国大模型发展情况，欢迎提供
+
 - *线索*
 - *材料*
 - *PR*
@@ -8,7 +9,7 @@
 
 本仓库同时持续深度分析[**开源开放的大模型**](./Open-LLMs.md)以及[数据集](./Datasets.md)的情况。
 
-使用数据请注明来源：**走向未来公众号** 和 https://github.com/wgwang/LLMs-In-China。
+使用数据请注明来源：**走向未来公众号** 和 <https://github.com/wgwang/LLMs-In-China>。
 
 扫码关注我的公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。
 
@@ -54,7 +55,7 @@
 |34|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|上海|✘ |无涯——金融；求索——大数据分析|
 |35|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA) |天津 |✘| |
 |36|恒生电子|LightGPT|浙江杭州|✘| |
-|37|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|北京|✘|通用视觉，中国电信| 
+|37|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|北京|✘|通用视觉，中国电信|
 |38|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|北京|✔|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |39|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|✘|医疗领域|
 |40|好未来|[MathGPT](https://mp.weixin.qq.com/s/evLrZAFKa9mCplcqZnpZMw) |北京|✘|学而思|
@@ -66,8 +67,8 @@
 |46|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg)|广东深圳 |✘ | |
 |47|网易有道|子曰|北京|✘ | |
 |48|网易伏羲|玉言|广东广州 |✘ | |
-|49|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|✔|与奇点智源联合研发|| 
-|50|知乎|知海图|北京|✘ |知乎和面壁科技合作| 
+|49|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|✔|与奇点智源联合研发||
+|50|知乎|知海图|北京|✘ |知乎和面壁科技合作|
 |51|医疗算网|Uni-talk|上海|✘|上海联通+华山医院+上海超算中心+华为|
 |52|蚂蚁集团|贞仪|浙江杭州|✘|据传语言和多模态两个|
 |53|中科创达|魔方Rubik|北京|✘| |
@@ -111,20 +112,15 @@
 |91|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
-|94| | | |
+|94|联汇科技 |OmModel欧姆大模型 |杭州 |✔|[多模态（视觉语言）大模型](https://om.linker.cc/hub/#/home)|
 |95| | | |
 |96| | | |
 |97| | | |
 |98| | | |
 |99| | | |
 
-
-
-
-
-
-
 ## 国外大模型
+
 |公司|大模型|说明|
 |:-|:-|:-|
 |OpenAI|[ChatGPT](https://chat.openai.com/chat)||
@@ -139,8 +135,3 @@
 |Intel|Aurora genAI||
 |UC Berkeley, Microsoft Research|[Gorilla](https://gorilla.cs.berkeley.edu/)||
 |inflection.ai|[Inflection-1](https://inflection.ai/inflection-1)|
-
-
-
-
-
