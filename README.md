@@ -111,8 +111,8 @@
 |91|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
-|94| | | |
-|95| | | |
+|94|中国电信|TeleChat|北京|✘||
+|95|企查查|知彼阿尔法 |江苏苏州 |✘||
 |96| | | |
 |97| | | |
 |98| | | |
