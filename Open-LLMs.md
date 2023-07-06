@@ -25,6 +25,7 @@
 |13|OpenLLaMA|3B,7B,13B|1T||
 |14|MPT|7B,30B|1T|
 |15|Pythia|2.8B,6.9B,12B|300B||
+|16|XGen|7B|1.5T||
 
 ## 非基础大模型
 - WizardLM
