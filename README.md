@@ -11,7 +11,7 @@
 
 使用数据请注明来源：**走向未来公众号** 和 **<https://github.com/wgwang/LLMs-In-China>**。
 
-微信扫码关注我的公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。必须用扫码，微信内置的识别是无法识别的，识别的二维码见文末。
+微信扫码关注我的公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。必须用扫码，微信内置的识别是无法识别的，长按可识别的二维码见文末。
 
 ![](imgs/走向未来8.jpg)  
 
@@ -21,13 +21,13 @@
 |序号|公司|大模型|省市|官网|说明|
 |:-|:-|:-|:-|:-|:-|
 |1|百度| [文心一言](https://yiyan.baidu.com)|北京|✔|[试用需账号](https://yiyan.baidu.com) |
-|2|科大讯飞| [星火](https://xinghuo.xfyun.cn)|安徽合肥|✔|[试用需账号](https://xinghuo.xfyun.cn/desk) |
-|3|达观数据| [曹植](http://www.datagrand.com/products/aigc/)|上海|✔|[试用需账号](https://aigc.datagrand.com/) |
-|4|阿里云| [通义千问](https://tongyi.aliyun.com/)|浙江杭州|✔|[试用需账号]( https://tongyi.aliyun.com)|
-|5|复旦大学| [MOSS](https://github.com/OpenLMLab/MOSS)|上海|✔|[试用需账号](https://moss.fastnlp.top/)|
-|6|清华大学| [ChatGLM](https://chatglm.cn/) |北京|✔| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/)|
-|7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3)|广东深圳|✔|华为+鹏城|
-|8|智源人工智能研究院 |[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099)|
+|2|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|✔|[试用需账号](https://xinghuo.xfyun.cn/desk) |
+|3|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|✔|[试用需账号](https://aigc.datagrand.com/) |
+|4|阿里云|[通义千问](https://tongyi.aliyun.com/)|浙江杭州|✔|[试用需账号]( https://tongyi.aliyun.com)|
+|5|复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|上海|✔|[试用需账号](https://moss.fastnlp.top/)|
+|6|清华大学|[ChatGLM](https://chatglm.cn/) |北京|✔| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[智谱AI](http://open.bigmodel.ai/)|
+|7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3),[盘古-Σ](https://arxiv.org/pdf/2303.10845.pdf)|广东深圳|✔|华为+鹏城|
+|8|智源人工智能研究院|[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila)|北京|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099)|
 |9|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|黑龙江哈尔滨|✔|医学；基于LLaMA；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)|
 |10|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|✔|基于BLOOMZ或LLaMA的多个模型|
 |11|百川智能|[baichuan](https://github.com/baichuan-inc/baichuan-7B)|北京|✔|开源可商用|
@@ -41,7 +41,7 @@
 |19|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|✔|[姜子牙](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)系列模型 |
 |20|上海交通大学|[K2](https://github.com/davendw49/k2),[白玉兰](https://mp.weixin.qq.com/s/3eON8L4b7-d-1URwgdR6Bg)|上海|✔|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于LLaMA，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
 |21|360| [智脑](https://ai.360.cn/),[一见](https://github.com/360CVGroup/SEEChat)| 北京|✔||
-|22|度小满 |[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM|
+|22|度小满|[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|✔|基于BLOOM|
 |23|华南理工大学未来技术学院|ProactiveHealthGPT,[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|✔| |
 |24|艾写科技|[Anima](https://github.com/lyogavin/Anima)|浙江杭州|✔|基于Guanaco->基于LLaMA，使用QLoRA|
 |25|北京大学信息工程学院|[ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)|北京|✔|[ChatLaw-13B](https://huggingface.co/JessyTsu1/ChatLaw-13B)基于Ziya-LLaMA-13B-v1->LLaMA,[ChatLaw-33B](https://huggingface.co/JessyTsu1/ChatLaw-33B)基于Anima33B->Guanaco->LLaMA|
@@ -114,7 +114,7 @@
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |94|联汇科技 |欧姆|浙江杭州 |✔|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/hub/#/home)|
-|95|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|✔|[论文](https://arxiv.org/pdf/2304.01097.pdf)|
+|95|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|✔|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
 |96|企查查|知彼阿尔法 |江苏苏州 |✘||
 |97|香港科技大学|[罗宾Robin](https://huggingface.co/OptimalScale)|香港|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),[港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)|
 |98|浪潮信息|[源](https://air.inspur.com/) |山东济南|✘|[源](https://github.com/Shawn-Inspur/Yuan-1.0)|
