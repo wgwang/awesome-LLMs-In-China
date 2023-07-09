@@ -115,7 +115,7 @@
 |94|联汇科技 |欧姆|浙江杭州 |✔|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/hub/#/home)|
 |95|中国电信|TeleChat|北京|✘||
 |96|企查查|知彼阿尔法 |江苏苏州 |✘||
-|97| | | |
+|97|香港科技大学|罗宾Robin|香港|✔|[3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)
 |98| | | |
 |99| | | |
 
