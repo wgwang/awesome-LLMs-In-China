@@ -114,13 +114,16 @@
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |94|联汇科技 |欧姆|浙江杭州 |✔|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/hub/#/home)|
-|95|中国电信|TeleChat|北京|✘||
+|95|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|✔|[论文](https://arxiv.org/pdf/2304.01097.pdf)|
 |96|企查查|知彼阿尔法 |江苏苏州 |✘||
-|97|香港科技大学|罗宾Robin|香港|✔|[3090单卡5小时，每个人都能训练专属ChatGPT，港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)
+|97|香港科技大学|[罗宾Robin](https://huggingface.co/OptimalScale)|香港|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),[港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)|
 |98|浪潮信息|[源](https://air.inspur.com/) |山东济南|✘|[源](https://github.com/Shawn-Inspur/Yuan-1.0)|
 |99|中国移动|九天| 北京|✘||
-|100|维智科技|CityGPT|上海|✘|城市大模型|
+|100|中国电信|TeleChat|北京|✘||
 |101|容联云|赤兔|北京|✘|客服，营销|
+|102|云天励飞|天书|广东深圳|✘||
+|103|维智科技|CityGPT|上海|✘|城市大模型|
+
 
 ## 国外大模型
 
