@@ -112,7 +112,7 @@
 |91|微盟|[WAI](https://wai.weimob.com/)|上海|✔||
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|✘|流体力学大模型,湍流+流场 |
 |93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
-|94|联汇科技 |OmModel欧姆大模型 |杭州 |✔|[多模态（视觉语言）大模型](https://om.linker.cc/hub/#/home)|
+|94|联汇科技 |OmModel欧姆大模型 |杭州 |✔|[多模态（视觉语言）大模型](https://om.linker.cc/)|
 |95| | | |
 |96| | | |
 |97| | | |
