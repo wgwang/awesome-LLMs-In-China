@@ -128,7 +128,7 @@
 |106|超对称技术公司| [乾元](https://bbt.ssymmetry.com/)|北京|✔||
 |107|蜜度|[文修](https://mp.weixin.qq.com/s/aHSw9Kxib3Zj84qDGn3Dyg)|上海|✘|智能校对|
 |108|中国电子云|[星智](https://mp.weixin.qq.com/s/qNoTD4BY2DX5ziSe1ZPSLw)|湖北武汉|✘|政务大模型|
-
+|109|中科院成都计算机应用研究所|[聚宝盆](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese)|四川成都|✔| 基于中文金融知识的 LLaMA 系微调模型|
 
 ## 国外大模型
 
