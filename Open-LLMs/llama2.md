@@ -1,11 +1,13 @@
 # LLaMA-2
 
+摘要：Meta开放出来的LLaMA-2引起了人工智能领域的极大震撼！本文从全局角度概览LLaMA-2，包括基础模型和在基础模型之上进行有监督微调SFT和人类反馈的强化学习RLHF进行训练的模型，每类皆包含7B、13B和70B三个版本。
+
+
 Llama 原始的意思是“美洲驼【A llama is a South American animal with thick hair, which looks like a small camel without a hump.】”，也因此，许多基于 LLaMA的模型都以动物名称来命名。
 
 Meta 开发并“开放”的LLaMA-2大模型，是其此前发布的大模型LLaMA的升级迭代版本，是一个巨大进步的版本。
 
-LLaMA是一个基础模型，Meta开放了两个版本，一个是纯无监督训练出来的基础模型，另一个是在基础模型之上进行有监督微调（SFT）和人类反馈的强化学习进行训练的Chat模型。所发布的版本中，提供了7B、13B 和70B的三个规模，每个参数规模都提供了基础模型和Chat模型
-
+LLaMA-2是一个基础模型，Meta开放了两个版本，一个是纯无监督训练出来的基础模型，另一个是在基础模型之上进行有监督微调SFT和人类反馈的强化学习RLHF进行训练的Chat模型。所发布的两个版本中，都提供了7B、13B 和70B的三个参数规模的模型。
 
 
 ## 基础信息
@@ -48,11 +50,27 @@ LLaMA是一个基础模型，Meta开放了两个版本，一个是纯无监督�
 ## 模型下载
 - 官方下载： [HuggingFace](https://huggingface.co/meta-llama)，需提交授权申请，基本都会批准的。
 - 非官方： [HuggingFace](https://huggingface.co/TheBloke) 
-  
+
+### 官方
+
+|参数规模|LLaMA-2|LLaMA-2-hf|LLaMA-2-Chat|LLaMA-2-Chat-hf|
+|:-|:-|:-|:-|:-|
+|7B|[下载链接](https://huggingface.co/llamaste/Llama-2-7b)|[下载链接](https://huggingface.co/llamaste/Llama-2-7b-hf)|[下载链接](https://huggingface.co/llamaste/Llama-2-7b-chat)|[下载链接](https://huggingface.co/llamaste/Llama-2-7b-chat-hf)|
+|13B|[下载链接](https://huggingface.co/llamaste/Llama-2-13b)|[下载链接](https://huggingface.co/llamaste/Llama-2-13b-hf)|[下载链接](https://huggingface.co/llamaste/Llama-2-13b-chat)|[下载链接](https://huggingface.co/llamaste/Llama-2-13b-chat-hf)|
+|70B|[下载链接](https://huggingface.co/llamaste/Llama-2-70b)|[下载链接](https://huggingface.co/llamaste/Llama-2-70b-hf)|[下载链接](https://huggingface.co/llamaste/Llama-2-70b-chat)|[下载链接](https://huggingface.co/llamaste/Llama-2-70b-chat-hf)|
+
+### 其他
+
+70B的模型下载，有几种不同的变种，支持不同的框架载入：
+- [LLaMA-2-70B-GGML](https://huggingface.co/TheBloke/Llama-2-70B-GGML)
+- [LLaMA-2-70B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGML)
+- [LLaMA-2-70B-GPTQ](https://huggingface.co/TheBloke/Llama-2-70B-GPTQ)
+- [LLaMA-2-70B-chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-70B-chat-GPTQ)
+
 
 ## 效果方面
 
-Meta在论文中表示，LLaMA 70B的模型在许多方面都超越了 ChatGPT-3.5的水平。在一些第三方的评测中【https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard】不错。
+Meta在论文中表示，LLaMA 70B的模型在许多方面都超越了 ChatGPT-3.5的水平。在一些第三方的评测中【[HuggingFace LeaderBoard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)】不错。
 - AI2 Reasoning Challenge (25-shot) - a set of grade-school science questions.
   - Llama 1 (llama-65b): 57.6
   - LLama 2 (llama-2-70b-chat-hf): 64.6
