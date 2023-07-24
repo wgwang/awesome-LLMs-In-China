@@ -11,7 +11,7 @@
 |序号|名称|参数规模|数据规模|说明|
 |:-|:-|:-|:-|:-|
 |1|[LLaMA](Open-LLMs/llama.md)|7B,13B,30B,65B|1.4T|Meta，代码开源，模型“泄露”,不可商用，[详细介绍](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
-|2|OPT|6.7B,13B,30B,66B,175B|||
+|2|[LLaMA-2](Open-LLMs/llama2.md)|7B,13B,70B|2T|可商用|
 |3|[BLOOM](Open-LLMs/bloom.md)|3B,7.1B,176B|366B|可商用，最为宽松，[详细介绍](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |4|GALACTICA|6.7B,30B,120B||
 |5|[Falcon](Open-LLMs/falcon.md)|7B,40B||
@@ -26,6 +26,7 @@
 |14|MPT|7B,30B|1T|
 |15|Pythia|2.8B,6.9B,12B|300B||
 |16|XGen|7B|1.5T||
+|17|OPT|6.7B,13B,30B,66B,175B|||
 
 ## 非基础大模型
 - WizardLM
