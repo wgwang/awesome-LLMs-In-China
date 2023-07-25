@@ -48,7 +48,7 @@
 |26|华南理工大学|[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|医学|✔| |
 |27|中国科学院计算技术研究所|[百聆](https://github.com/ictnlp/BayLing)|北京|科研|✔|基于 [LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，权重Diff下载[7B](https://huggingface.co/ICTNLP/bayling-7b-diff)和[13B](https://huggingface.co/ICTNLP/bayling-13b-diff),[demo](http://nlp.ict.ac.cn/bayling/demo/) |
 |28|中国科学院成都计算机应用研究所|[聚宝盆](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese)|四川成都|金融|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的金融大模型|
-|29|晓多科技+国家超算成都中心|[晓模型XPT](https://www.xiaoduoai.com/blog/12433.html)|四川成都|客服|✘||
+|29|晓多科技+国家超算成都中心|[晓模型XPT](https://xpt.xiaoduoai.com)|四川成都|客服|✔|[试用申请](https://xpt.xiaoduoai.com/)|
 |30|稀宇科技|[MiniMax](https://api.minimax.chat/)|上海|通用|✔|GLOW虚拟社交|
 |31|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|教育|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),北语+清华+东北、北京交大|
 |32|商汤科技 | [日日新](https://techday.sensetime.com/list)| 上海|通用|✔| |
