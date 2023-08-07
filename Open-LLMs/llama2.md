@@ -13,6 +13,7 @@ LLaMA-2是一个基础模型，Meta开放了两个版本，一个是纯无监督
 ## 基础信息
 
 - 由Meta AI的GenAI团队开发
+- 发布于2023年7月18日
 - LLaMA-2无监督训练数据截至2022年9月；有监督微调的数据截至2023年7月；
 - LLaMA是一种基于变换器网络（Transformer）架构的自回归语言模型。该模型有不同的参数规模：7B、13B、70B参数
 - 许可：允许商用，非常的宽松，但如果使用方及其关联公司所提供的产品或服务的月活跃用户超过7亿的话，需要向Meta请求许可，而Meta可以自行决定是否授权。【 If, on the Llama 2 version release date, the monthly active users of the products or services made available by or for Licensee, or Licensee’s affiliates, is greater than 700 million monthly active users in the preceding calendar month, you must request a license from Meta, which Meta may grant to you in its sole discretion, and you are not authorized to exercise any of the rights under this Agreement unless or until Meta otherwise expressly grants you such rights.】
