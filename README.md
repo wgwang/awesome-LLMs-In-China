@@ -21,9 +21,9 @@
 |序号|公司|大模型|省市|类别|官网|说明|
 |:-|:-|:-|:-|:-|:-|:-|
 |1|百度| [文心一言](https://yiyan.baidu.com),[灵医Bot](https://01.baidu.com/)|北京|通用|✔|[试用需账号](https://yiyan.baidu.com),有APP|
-|2|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
-|3|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|金融、工业|✔|[试用需账号](https://aigc.datagrand.com/) |
-|4|阿里云|[通义千问](https://tongyi.aliyun.com/)|浙江杭州|通用|✔|[试用需账号]( https://tongyi.aliyun.com)|
+|2|阿里云|[通义千问](https://tongyi.aliyun.com/),[Qwen-7B](https://github.com/QwenLM/Qwen-7B)|浙江杭州|通用|✔|[试用需账号]( https://tongyi.aliyun.com),开源通义千问7B模型[Qwen-7B](https://huggingface.co/Qwen/Qwen-7B),[Qwen-7B-Chat](https://huggingface.co/Qwen/Qwen-7B-Chat)|
+|3|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
+|4|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|金融、工业|✔|[试用需账号](https://aigc.datagrand.com/) |
 |5|复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|上海|科研|✔|[试用需账号](https://moss.fastnlp.top/)|
 |6|清华大学|[ChatGLM](https://chatglm.cn/),[NowcastNet](https://www.nature.com/articles/s41586-023-06184-4)|北京|科研|✔| [开源6B](https://github.com/THUDM/ChatGLM-6B)，[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B), [智谱AI](http://open.bigmodel.ai/),[气象,临近预报大模型](https://mp.weixin.qq.com/s/MwJWjCLNqJM3lZ33RwK4Bg)|
 |7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3),[盘古-Σ](https://arxiv.org/pdf/2303.10845.pdf)|广东深圳|工业|✔|华为+鹏城,[华为云盘古](https://www.huaweicloud.com/product/pangu.html)|
@@ -140,6 +140,10 @@
 |118|孩子王|KidsGPT|江苏南京|教育|✘| |
 |119|企查查|知彼阿尔法 |江苏苏州 |商业|✘||
 |120|今立方|12333|福建厦门|政务|✘|人社领域|
+|121|阳光保险集团|正言|广东深圳|金融|✘||
+|122|电科数字|智弈|上海|水利|✘||
+|123|聆心智能|CharacterGLM|北京|游戏|✘||
+
 
 ## 国外大模型
 
