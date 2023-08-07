@@ -28,6 +28,8 @@
 |16|XGen|7B|1.5T||
 |17|OPT|6.7B,13B,30B,66B,175B|180B||
 |18|Qwen|7B|2.2T||
+|19|XVERSE|13B|1.4T||
+|20|Prithvi|||IBM+NASA,地理空间，100M（图片）|
 
 ## 非基础大模型
 - WizardLM
