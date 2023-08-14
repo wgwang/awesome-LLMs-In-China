@@ -32,7 +32,7 @@
 |20|Prithvi|||IBM+NASA,地理空间，100M（图片）|
 
 ## 非基础大模型
-- WizardLM
+- WizardLM，WizardMath，WizardCoder
 - Alpaca
 - Vicuna
 - Guanaco

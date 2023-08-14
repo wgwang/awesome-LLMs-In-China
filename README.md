@@ -29,7 +29,7 @@
 |7|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3),[盘古-Σ](https://arxiv.org/pdf/2303.10845.pdf)|广东深圳|工业|✔|华为+鹏城,[华为云盘古](https://www.huaweicloud.com/product/pangu.html)|
 |8|智源人工智能研究院|[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila),[悟道·EMU](https://github.com/baaivision/Emu)|北京|通用|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099),[HuggingFace](https://huggingface.co/BAAI),[EMU](https://huggingface.co/BAAI/Emu)基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
 |9|浙江大学|[启真](https://github.com/CMKRG/QiZhenGPT),[PromptProtein](https://github.com/HICAI-ZJU/PromptProtein),[TableGPT](https://github.com/syw1996/TableGPT)|浙江杭州|垂直|✔|医学大模型提供基于LLaMA-7B、CaMA-13B和ChatGLM-6B 三个版本,用于PromptProtein的[模型](https://github.com/HICAI-ZJU/OpenProtein)|
-|10|百川智能|[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B),[Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|北京|通用|✔|模型下载：[Baichuan-13B-Base](https://huggingface.co/baichuan-inc/Baichuan-13B-Base),[Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat),[Baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B),开源可商用|
+|10|百川智能|[百川](https://chat.baichuan-ai.com/),[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B),[Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)|北京|通用|✔|模型下载：[Baichuan-13B-Base](https://huggingface.co/baichuan-inc/Baichuan-13B-Base),[Baichuan-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan-13B-Chat),[Baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B),开源可商用|
 |11|上海人工智能实验室|[书生·浦语](https://internlm.org/), [OpenMEDLab浦医](https://github.com/openmedlab) |上海|通用&垂直|✔|[技术报告](https://github.com/InternLM/InternLM-techreport),[开源的InternLM-7B](https://github.com/InternLM/InternLM),[HuggingFace下载模型权重](https://huggingface.co/internlm/internlm-7b)|
 |12|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|垂直|✔|基于BLOOMZ或[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的多个模型|
 |13|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese),[活字](https://github.com/hit-scir/huozi)|黑龙江哈尔滨|医学|✔|医学，本草基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)，活字基于BLOOM-7B|
@@ -61,9 +61,9 @@
 |39|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|医学|✔|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
 |40|华东师范大学 |[EmoGPT](https://mp.weixin.qq.com/s/xP-qm5YUj8fZD9YQ7t08NQ),[EduChat](https://github.com/icalk-nlp/EduChat)|上海|教育| ✘|EmoGPT是上海市心理健康与危机干预重点实验室与镜象科技公司合作完成, 教学教育大模型EduChat基于BELLE（BELLE基于LLaMA）|
 |41|星环科技|[无涯、求索](https://mp.weixin.qq.com/s/6rYmk58OypU_Wwu0L7-nTw)|上海|金融|✘ |无涯——金融；求索——大数据分析|
-|42|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|科研|✔| |
+|42|澳门理工大学|[XrayGLM](https://github.com/WangRongsheng/XrayGLM),[IvyGPT](https://github.com/WangRongsheng/IvyGPT)|澳门|医疗|✔|IvyGPT基于ChatGLM2，XrayGLM基于VisualGLM-6B|
 |43|数慧时空|[长城](https://mp.weixin.qq.com/s/KYB-noOt7gB0l5hh-rwfkQ)|北京|地球科学 |✘ |自然资源，遥感|
-|44| 中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|北京|工业|✘|与复旦NLP实验室联合，工业领域|
+|44|中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|北京|工业|✘|与复旦NLP实验室联合，工业领域|
 |45|创业黑马|[天启](https://mp.weixin.qq.com/s/lYqCe9skc0MOSzmmTiGAug)|北京 |创投|✘ | 创业黑马与360合作,科创服务行业|
 |46|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg)|广东深圳|客服 |✘ | |
 |47|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|医学|✘|医疗领域|
@@ -73,7 +73,7 @@
 |51|医疗算网|Uni-talk|上海|医学|✘|上海联通+华山医院+上海超算中心+华为|
 |52|蚂蚁集团|贞仪|浙江杭州|金融|✘|据传语言和多模态两个|
 |53|硅基智能|[炎帝](https://mp.weixin.qq.com/s/XNu3UrSKm4jy1ayJJ6-HMg)|江苏南京|文旅|✘||
-|54|腾讯|混元|广东深圳 |通用|✘ | |
+|54|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|科研|✔| |
 |55|拓尔思|[拓天](https://mp.weixin.qq.com/s/beQardxjpner6vvk_LTOJA)|北京 |媒体|✘ |TRSGPT |
 |56|好未来|[MathGPT](https://mp.weixin.qq.com/s/evLrZAFKa9mCplcqZnpZMw) |北京|教育|✘|学而思|
 |57|清博智能 | [先问](https://mp.weixin.qq.com/s/Et-nVHjxDP3W-PFWmDo3YQ)| 北京|农业|✘|基于结构化数据|
@@ -112,7 +112,7 @@
 |90|清睿智能|[ArynGPT](https://mp.weixin.qq.com/s/FFRfzwoXBM2dGs9O7F-Z5A) | 江苏苏州|教育|✘||
 |91|微盟|[WAI](https://wai.weimob.com/)|上海|商业|✔||
 |92|西北工业大学+华为 |[秦岭·翱翔](https://www.nwpu.edu.cn/info/1198/65828.htm) |陕西西安|工业|✘|流体力学大模型,湍流+流场 |
-|93|奇点智源| [Singularity OpenAPI](https://openapi.singularity-ai.com/)|北京 |通用|✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
+|93|奇点智源| [天工智力](https://openapi.singularity-ai.com/)|北京 |通用|✔|[瑶光和天枢](https://openapi.singularity-ai.com/index.html#/documentIndex)|
 |94|联汇科技 |欧姆|浙江杭州 |通用|✔|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/)|
 |95|中国联通 |鸿湖|北京|通信|✘||
 |96|思必驰|[DFM-2](https://mp.weixin.qq.com/s/FxLw5UfJpYS1tCPDMkhvXA)|江苏苏州|工业|✘||
@@ -131,7 +131,7 @@
 |109|理想汽车|MindGPT|北京 |工业|✘| |
 |110|阅文集团|妙笔|上海|文旅|✘| 网文大模型|
 |111|携程|问道|上海|文旅|✘|旅游行业大模型|
-|112|长虹|长虹超脑 |四川绵阳|媒体|✘| |
+|112|腾讯|混元|广东深圳 |通用|✘ | |
 |113|瑞泊|[VIDYA](http://xraybot.com/col.jsp?id=103)|北京|工业|✔| |
 |114|有连云|麒麟|上海|金融|✘| |
 |115|维智科技|CityGPT|上海|公共服务|✘|城市大模型|
@@ -144,6 +144,14 @@
 |122|电科数字|智弈|上海|水利|✘||
 |123|聆心智能|CharacterGLM|北京|游戏|✘||
 |124|大经中医|岐黄问道|江苏南京|医疗|✘| |
+|125|蒙牛|MENGNIU.GPT|内蒙古呼和浩特|食品|✘| |
+|126|快商通|汉朝|福建厦门|营销|✘| |
+|127|众合科技|UniChat|浙江杭州|交通|✘| |
+|128|金蝶|苍穹|广东深圳|企业服务|✘| |
+|129|云问科技|云中问道|江苏南京|营销|✘|与西安未来AI计算中心联合发布|
+|130|天壤智能|小白|上海|通用|✘| |
+|131|小米|MiLM-6B|北京|商业|✘| |
+|132|长虹|长虹超脑 |四川绵阳|媒体|✘| |
 
 
 ## 国外大模型
