@@ -7,16 +7,11 @@
 
 Falcon-180B是一个拥有1800亿参数的因果解码器模型（自回归语言模型），由阿布扎比（Abu Dhabi）的技术创新研究院（TII）开发和训练，于2023年9月发布。它是继Falcon-40B之后，TII推出的第二个开源大语言模型（LLM），也是目前世界上最大的开源开放大模型。Falcon-180B的目标是为研究者和商业用户提供一个强大、高效、多语言和多领域的基础模型，可以用于各种自然语言处理（NLP）任务，如文本生成、摘要、问答、对话、机器翻译等。
 
-## 基础信息
+Falcon 原始的意思是“猎鹰【A falcon is a bird of prey that can be trained to hunt other birds and animals. 】”。
 
+Falcon 系列模型到目前发布了7B、40B 和180B 三个模型。Falcon-180B 模型是目前开源开放大模型中，参数规模最大的。所使用的训练词元（tokens）数量达3.5T，也是已发布的大模型中最多的。
 
-
-
-Llama 原始的意思是“美洲驼【A llama is a South American animal with thick hair, which looks like a small camel without a hump.】”，也因此，许多基于 LLaMA的模型都以动物名称来命名。
-
-Meta 开发并“开放”的LLaMA-2大模型，是其此前发布的大模型LLaMA的升级迭代版本，是一个巨大进步的版本。
-
-LLaMA-2是一个基础模型，Meta开放了两个版本，一个是纯无监督训练出来的基础模型，另一个是在基础模型之上进行有监督微调SFT和人类反馈的强化学习RLHF进行训练的Chat模型。所发布的两个版本中，都提供了7B、13B 和70B的三个参数规模的模型。
+Falcon-180B是一个基础模型，TII开放了两个版本，一个是纯无监督训练出来的基础模型Falcon-180B，另一个是在基础模型之上进行有监督微调SFT和人类反馈的强化学习RLHF进行训练的Chat模型Falcon-180B-chat。
 
 
 ## 基础信息
