@@ -44,6 +44,13 @@ Baichuan-2在 baichuan 的基础上进行了优化，使用了2.6T 词元的语�
 
 ## 模型下载
 
+[Baichuan2-7B](https://huggingface.co/baichuan-inc/Baichuan2-7B-Base)
+[Baichuan2-7B-Chat](https://huggingface.co/baichuan-inc/Baichuan2-7B-Chat)
+[Baichuan2-13B](https://huggingface.co/baichuan-inc/Baichuan2-13B-Base)
+[Baichuan2-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat)
+
+
+
 [模型仓库：HuggingFace](https://huggingface.co/baichuan-inc/baichuan-7B)
 [模型仓库：modelscope](https://modelscope.cn/models/baichuan-inc/baichuan-7B/)
 
