@@ -50,12 +50,6 @@ Baichuan-2在 baichuan 的基础上进行了优化，使用了2.6T 词元的语�
 [Baichuan2-13B-Chat](https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat)
 
 
-
-[模型仓库：HuggingFace](https://huggingface.co/baichuan-inc/baichuan-7B)
-[模型仓库：modelscope](https://modelscope.cn/models/baichuan-inc/baichuan-7B/)
-
-
-
 ## 训练数据
 
 2.6T Tokens，技术报告非常简单的提及了数据的行业分布：
