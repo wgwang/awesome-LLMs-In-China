@@ -41,7 +41,7 @@
 |18|腾讯|[混元](https://hunyuan.tencent.com/)|广东深圳 |通用|✔ | |
 |19|云知声|[山海](https://shanhai.unisound.com/) | 北京|医学|✔||
 |20|东北大学|[TechGPT](https://github.com/neukg/TechGPT),[PICA](https://github.com/NEU-DataMining/PICA)|辽宁沈阳|科研|✔|TechGPT->BELLE->[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，图谱构建和阅读理解问答;PICA->ChatGLM2-6B情感大模型|
-|21|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/) |广东深圳|通用|✔|[姜子牙](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)系列模型 |
+|21|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/),[ziya-coding](https://huggingface.co/IDEA-CCNL/Ziya-Coding-15B-v1) |广东深圳|通用|✔|[姜子牙](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)系列模型 ,ziya-coding代码大模型|
 |22|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|垂直|✔|基于BLOOMZ或[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的多个模型|
 |23|360| [智脑](https://ai.360.cn/),[一见](https://github.com/360CVGroup/SEEChat)| 北京|通用|✔||
 |24|哈尔滨工业大学|[本草](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese),[活字](https://github.com/hit-scir/huozi)|黑龙江哈尔滨|医学|✔|医学，本草基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)；另有基于 ChatGLM 的[Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM)，活字基于BLOOM-7B|
@@ -72,7 +72,7 @@
 |49|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|客服|✔|与奇点智源联合研发||
 |50|智媒开源研究院| [智媒](https://github.com/IMOSR/Media-LLaMA)|广东深圳|媒体|✔|基于LLaMA，面向自媒体|
 |51|医疗算网|Uni-talk|上海|医学|✘|上海联通+华山医院+上海超算中心+华为|
-|52|蚂蚁集团|贞仪|浙江杭州|金融|✘|据传语言和多模态两个|
+|52|蚂蚁集团|贞仪,[CodeFuse](https://huggingface.co/codefuse-ai)|浙江杭州|金融|✔|CodeFuse代码大模型|
 |53|硅基智能|[炎帝](https://mp.weixin.qq.com/s/XNu3UrSKm4jy1ayJJ6-HMg)|江苏南京|文旅|✘||
 |54|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|科研|✔| |
 |55|国家超级计算天津中心|[天河天元](https://mp.weixin.qq.com/s/A9jnnL3-LjcDLsDD2PCa6g)|天津|通用|✘ | |
@@ -105,7 +105,7 @@
 |82|宇视科技|[梧桐](https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ)|浙江杭州|运维|✘|AIoT行业 |
 |83|智臻智能|[华藏](https://mp.weixin.qq.com/s/MZO2tvun05WnJkSe0seJnw)|上海|客服|✘|小i机器人|
 |84|美亚柏科|[天擎](https://mp.weixin.qq.com/s/D3ki3G4Q7QZPAVJ8iwTvDg)|福建厦门 |安全|✘|公共安全|
-|85|赛灵力科技 |达尔文|广东广州|医学|✘|赛灵力,清华珠三角研究院,赛业生物,大湾区科技创新服务中心|
+|85|山东大学|[夫子•明察](https://github.com/irlab-sdu/fuzi.mingcha)|山东济南|司法|✔|山东大学+浪潮云+中国政法大学，基于ChatGLM，无监督司法语料（各类判决文书、法律法规等）与有监督司法微调数据（包括法律问答、类案检索）训练而成|
 |86|数慧时空|[长城](https://mp.weixin.qq.com/s/KYB-noOt7gB0l5hh-rwfkQ)|北京|地球科学 |✘ |自然资源，遥感|
 |87|佳都科技 |佳都知行 | 广东广州|交通|✘|交通领域|
 |88|知乎|知海图|北京|媒体|✘ |知乎和面壁科技合作|
@@ -154,7 +154,7 @@
 |131|小米|MiLM-6B|北京|商业|✘| |
 |132|长虹|长虹超脑 |四川绵阳|媒体|✘| |
 |133|开普云|[开悟](https://www.kaipuyun.cn/kp/c100630/kaiwu.shtml)|广东东莞|政务|✔| |
-|134|木卫四科技|蝴蝶|北京|汽车|✘| |
+|134|赛灵力科技 |达尔文|广东广州|医学|✘|赛灵力,清华珠三角研究院,赛业生物,大湾区科技创新服务中心|
 |135|航旅纵横|千穰大模型|北京|民航|✘|航旅纵横APP上需要PLUS会员才能使用|
 |136|奇安信|Q-GPT|北京|信息安全|✘| |
 |137|车之谷|叆谷|山东青岛|汽车|✘|汽车后服务加油站场景|
@@ -177,6 +177,21 @@
 |154|微脉|CareGPT|浙江杭州|医疗|✘||
 |155|吉大正元|昆仑|吉林长春|信息安全|✘||
 |156|武汉大学|[CheeseChat](https://www.ithome.com/0/695/295.htm)|湖北武汉|教育|✘|内测招募，仅限武汉大学在校师生申请|
+|157|方正电子|魔方|北京|媒体|✘|聚焦媒体市场需求|
+|158|似然实验室|TraderGPT|广东广州|金融|✘|金融持仓分析大模型|
+|159|网易智企|商河|广东广州|客服|✘|客服领域行业大模型|
+|160|深圳供电局|祝融2.0|广东深圳|电力|✘|电力行业首个多模态预训练大模型|
+|161|万兴科技|天幕|西藏拉萨|媒体|✘|以视频创意应用为核心|
+|162|惟远智能|千机百智|广东深圳|客服|✘||
+|163|兔展智能|兔灵|广东深圳|营销|✘||
+|164|中国科学技术大学|[UniDoc](https://arxiv.org/pdf/2308.11592.pdf)|安徽合肥|通用|✘|中科大&字节,统一的文字-图像理解大模型|
+|165|钢谷网|谷蚁|陕西西安|电商|✘|钢铁行业电商|
+|166|浪潮海岳|inGPT|山东济南|企业服务|​✘||
+|167|木卫四科技|蝴蝶|北京|汽车|✘| |
+|168|汇通达网络|汇通达|江苏南京|企业服务|✘|下沉市场零售行业企业客户的交易和服务的互联网平台,农村电商服务|
+
+
+
 
 
 ## 国外大模型
