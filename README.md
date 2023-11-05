@@ -27,7 +27,7 @@
 |4|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|工业|✔|[试用需账号](https://aigc.datagrand.com/) |
 |5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源小模型[书生·浦语](https://github.com/InternLM/InternLM)，[OpenMEDLab浦医](https://github.com/openmedlab)|
 |6|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
-|7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|代码|浙江杭州||
+|7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|浙江杭州|代码|✔||
 |8|商汤科技| [日日新](https://techday.sensetime.com/)| 上海|通用|✔||
 |9|春田知韵（抖音）|[豆包](https://www.doubao.com/chat/)|北京|通用|✔|开源多模态7B小模型[BuboGPT](https://bubo-gpt.github.io/)，豆包是云雀的聊天机器人|
 |10|中国科学院自动化研究所| [紫东·太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|通用|✔|紫东太初2.0号称100B参数，全模态|
@@ -204,7 +204,7 @@
 |181|恩博科技|林海思绪|江苏南京|林业|✘|南京恩博科技、中国林业科学研究院资源信息研究所、东北林业大学、南京林业大学联合发布了“多模态、行业级应用增强大模型——[林海思绪大模型1.0](https://mp.weixin.qq.com/s/zi3GdZ9G69gs81jIkHAmVA)”|
 |182|亿嘉和|YJH-LM|江苏南京|消费电子|✘|YJH-LM技术已在商用清洁机器人上完成功能测试|
 |183|大华股份|星汉|浙江杭州|城市治理|✘|以视觉为核心，融合多模态能力，构建面向行业的大模型|
-|184|福建医科大学孟超肝胆医院|福建福州|孟超|医疗|✘|面向肝病和肝癌的医疗大模型|
+|184|福建医科大学孟超肝胆医院|孟超|福建福州|医疗|✘|面向肝病和肝癌的医疗大模型|
 |185|中文在线|中文逍遥|北京|文旅|✘|小说创作|
 
 
