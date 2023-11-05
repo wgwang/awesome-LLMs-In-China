@@ -27,7 +27,7 @@
 |4|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|工业|✔|[试用需账号](https://aigc.datagrand.com/) |
 |5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源小模型[书生·浦语](https://github.com/InternLM/InternLM)，[OpenMEDLab浦医](https://github.com/openmedlab)|
 |6|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
-|7|稀宇科技|[ABAB](https://api.minimax.chat/)|上海|通用|✔|GLOW虚拟社交,MiniMax|
+|7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|代码|浙江杭州||
 |8|商汤科技| [日日新](https://techday.sensetime.com/)| 上海|通用|✔||
 |9|春田知韵（抖音）|[豆包](https://www.doubao.com/chat/)|北京|通用|✔|开源多模态7B小模型[BuboGPT](https://bubo-gpt.github.io/)，豆包是云雀的聊天机器人|
 |10|中国科学院自动化研究所| [紫东·太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|通用|✔|紫东太初2.0号称100B参数，全模态|
@@ -50,7 +50,7 @@
 |27|中国科学院计算技术研究所|[百聆](https://github.com/ictnlp/BayLing)|北京|科研|✔|基于 [LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，权重Diff下载[7B](https://huggingface.co/ICTNLP/bayling-7b-diff)和[13B](https://huggingface.co/ICTNLP/bayling-13b-diff),[demo](http://nlp.ict.ac.cn/bayling/demo/) |
 |28|好未来|[MathGPT](https://www.mathgpt.com/) |北京|教育|✔|学而思|
 |29|晓多科技+国家超算成都中心|[晓模型XPT](https://xpt.xiaoduoai.com)|四川成都|客服|✔|[试用申请](https://xpt.xiaoduoai.com/)|
-|30|网易有道|[子曰](https://aicenter.youdao.com/)|北京|教育|✔|推荐[有道速读](https://read.youdao.com/),读论文的利器|
+|30|昆仑万维 | [天工Skywork](https://github.com/SkyworkAI/Skywork)| 北京|通用|✔|开源且可商用，无需单独申请，Skywork是由昆仑万维集团·天工团队开发的一系列大型模型，本次开源的模型有Skywork-13B-Base模型、Skywork-13B-Chat模型、Skywork-13B-Math模型和Skywork-13B-MM模型，以及每个模型的量化版模型|
 |31|中国科学院成都计算机应用研究所|[聚宝盆](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese)|四川成都|金融|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的金融大模型|
 |32|华南理工大学|[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|医学|✔| |
 |33|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|金融|✔|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
@@ -65,13 +65,13 @@
 |42|澳门理工大学|[XrayGLM](https://github.com/WangRongsheng/XrayGLM),[IvyGPT](https://github.com/WangRongsheng/IvyGPT)|澳门|医疗|✔|IvyGPT基于ChatGLM2，XrayGLM基于VisualGLM-6B|
 |43|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|教育|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),北语+清华+东北、北京交大|
 |44|中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|北京|工业|✘|与复旦NLP实验室联合，工业领域|
-|45|创业黑马|[天启](https://mp.weixin.qq.com/s/lYqCe9skc0MOSzmmTiGAug)|北京 |创投|✘ | 创业黑马与360合作,科创服务行业|
+|45|稀宇科技|[ABAB](https://api.minimax.chat/)|上海|通用|✔|GLOW虚拟社交,MiniMax|
 |46|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg)|广东深圳|客服 |✘ | |
 |47|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|医学|✘|医疗领域|
 |48|香港科技大学|[罗宾Robin](https://huggingface.co/OptimalScale)|香港|科研|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),[港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)|
-|49|昆仑万维 | [天工](https://github.com/SkyWorkAIGC)| 北京|客服|✔|与奇点智源联合研发||
+|49|网易有道|[子曰](https://aicenter.youdao.com/)|北京|教育|✔|推荐[有道速读](https://read.youdao.com/),读论文的利器|
 |50|智媒开源研究院| [智媒](https://github.com/IMOSR/Media-LLaMA)|广东深圳|媒体|✔|基于LLaMA，面向自媒体|
-|51|医疗算网|Uni-talk|上海|医学|✘|上海联通+华山医院+上海超算中心+华为|
+|51|创业黑马|[天启](https://mp.weixin.qq.com/s/lYqCe9skc0MOSzmmTiGAug)|北京 |创投|✘ | 创业黑马与360合作,科创服务行业|
 |52|蚂蚁集团|贞仪,[CodeFuse](https://huggingface.co/codefuse-ai)|浙江杭州|金融|✔|CodeFuse代码大模型|
 |53|硅基智能|[炎帝](https://mp.weixin.qq.com/s/XNu3UrSKm4jy1ayJJ6-HMg)|江苏南京|文旅|✘||
 |54|西湖心辰|[西湖](https://xinchenai.com/)|浙江杭州|科研|✔| |
@@ -80,7 +80,7 @@
 |57|清博智能 | [先问](https://mp.weixin.qq.com/s/Et-nVHjxDP3W-PFWmDo3YQ)| 北京|农业|✘|基于结构化数据|
 |58|智子引擎 | [元乘象](https://chatimg.aixiaoqingxu.com/)|江苏南京 |客服|✔||
 |59|拓世科技 |[拓世](https://tskjgroup.com/article_news?id=822) |江西南昌 |金融|✘||
-|60|循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|北京|客服|✔|循环智能,清华大学,华为 |
+|60|医疗算网|Uni-talk|上海|医学|✘|上海联通+华山医院+上海超算中心+华为|
 |61|慧言科技+天津大学|[海河·谛听](https://mp.weixin.qq.com/s/FCnXXmT0jRfk4tTRIAK9FA) |天津|科研 |✘| |
 |62|第四范式|[式说](https://www.4paradigm.com/product/SageGPT.html)|北京|客服|✔||
 |63|拓尔思|[拓天](https://mp.weixin.qq.com/s/beQardxjpner6vvk_LTOJA)|北京 |媒体|✘ |TRSGPT |
@@ -107,7 +107,7 @@
 |84|美亚柏科|[天擎](https://mp.weixin.qq.com/s/D3ki3G4Q7QZPAVJ8iwTvDg)|福建厦门 |安全|✘|公共安全|
 |85|山东大学|[夫子•明察](https://github.com/irlab-sdu/fuzi.mingcha)|山东济南|司法|✔|山东大学+浪潮云+中国政法大学，基于ChatGLM，无监督司法语料（各类判决文书、法律法规等）与有监督司法微调数据（包括法律问答、类案检索）训练而成|
 |86|数慧时空|[长城](https://mp.weixin.qq.com/s/KYB-noOt7gB0l5hh-rwfkQ)|北京|地球科学 |✘ |自然资源，遥感|
-|87|佳都科技 |佳都知行 | 广东广州|交通|✘|交通领域|
+|87|循环智能| [盘古](https://www.rcrai.com/product/ai/pangu)|北京|客服|✔|循环智能,清华大学,华为 |
 |88|知乎|知海图|北京|媒体|✘ |知乎和面壁科技合作|
 |89|网易伏羲|玉言|广东广州 |通用|✘ | |
 |90|清睿智能|[ArynGPT](https://mp.weixin.qq.com/s/FFRfzwoXBM2dGs9O7F-Z5A) | 江苏苏州|教育|✘||
@@ -117,12 +117,12 @@
 |94|联汇科技 |欧姆|浙江杭州 |通用|✔|[OmModel欧姆多模态（视觉语言）大模型](https://om.linker.cc/)|
 |95|中国联通 |鸿湖|北京|通信|✘||
 |96|思必驰|[DFM-2](https://mp.weixin.qq.com/s/FxLw5UfJpYS1tCPDMkhvXA)|江苏苏州|工业|✘||
-|97|理想科技|大道Dao|北京|运维|✘|运维大模型|
+|97|中国科学院计算机网络信息中心|[MatChat](https://github.com/materialsCnicCas/CASMatChat)|北京|材料|✔|基于LLaMA，论文[MatChat: A Large Language Model and Application Service Platform for Materials Science](https://iopscience.iop.org/article/10.1088/1674-1056/ad04cb)|
 |98|电科太极 |[小可](https://mp.weixin.qq.com/s/8ci7g7R9j3pxkQC4UOLh2A) |北京|政务|✘|党政企行业应用 |
-|99|中国移动|九天| 北京|通信|✘||
-|100|中国电信|TeleChat|北京|通信|✘||
+|99|中国移动|九天,九天•众擎| 北京|通信|✘|九天•众擎基座大模型|
+|100|中国电信|TeleChat,启明|北京|通信|✘|“启明”网络大模型|
 |101|容联云|赤兔|北京|客服|✘|客服，营销|
-|102|云天励飞|天书|广东深圳|政务|✘||
+|102|理想科技|大道Dao|北京|运维|✘|运维大模型|
 |103|乐言科技|乐言 |上海 |客服| ✘| |
 |104|沪渝人工智能研究院|[兆言](https://mp.weixin.qq.com/s/RtcdWGrfIW5unyvxVplCSg)|重庆|科研|✘|也称：上海交通大学重庆人工智能研究院|
 |105|中央广播电视总台|央视听|北京|媒体|✘|央视听媒体大模型CMG Media GPT|
@@ -139,7 +139,7 @@
 |116|用友|YonGPT|北京|企业服务|✘| |
 |117|天云数据|Elpis|北京|金融|✘|证券法律法规|
 |118|孩子王|KidsGPT|江苏南京|教育|✘| |
-|119|企查查|知彼阿尔法 |江苏苏州 |商业|✘||
+|119|佳都科技 |佳都知行 | 广东广州|交通|✘|交通领域|
 |120|今立方|12333|福建厦门|政务|✘|人社领域|
 |121|阳光保险集团|正言|广东深圳|金融|✘||
 |122|中科创达|魔方Rubik|北京|工业|✘| |
@@ -167,7 +167,7 @@
 |144|创业邦|BangChat|北京|创投|✘|产业、企业和投资行业|
 |145|新华三H3C|百业灵犀|浙江杭州|工业|✘||
 |146|作业帮|银河|广东广州|教育|✘||
-|147|电科数字|智弈|上海|水利|✘||
+|147|企查查|知彼阿尔法 |江苏苏州 |商业|✘||
 |148|绿盟|风云卫|北京|网络安全|✘|NSFGPT|
 |149|江苏欧软|WISE|江苏苏州|工业|✘|WISE工业大模型|
 |150|创新奇智|奇智孔明|山东青岛|工业|✘|工业大模型AInno-15B，ChatRobot，ChatBI，ChatDoc|
@@ -189,6 +189,26 @@
 |166|浪潮海岳|inGPT|山东济南|企业服务|​✘||
 |167|木卫四科技|蝴蝶|北京|汽车|✘| |
 |168|汇通达网络|汇通达|江苏南京|企业服务|✘|下沉市场零售行业企业客户的交易和服务的互联网平台,农村电商服务|
+|169|九章云极|元识|北京|企业服务|✘|基于生成式AI能力打造各行业企业级应用|
+|170|汉王|天地|北京|法律|✘| |
+|171|南京审计大学|审元|江苏南京|审计|✘| |
+|172|天翼云|慧泽|北京|政务|✘|“慧泽”依托国云智算底座、在贵阳市人民政府政务场景和数据支持下推出的首个天翼云行业大模型|
+|173|北京大学行为与空间智能实验室|PlanGPT|北京|城市规划|✘| |
+|174|吉林大学|棱镜|吉林长春|通用|✘| |
+|175|慧安股份|蜂巢知元|北京|工业|✘| |
+|176|VIVO|蓝心|广东东莞|消费电子|✘| |
+|177|元年科技|方舟GPT|北京|企业服务|✘| |
+|178|电科数字|智弈|上海|水利|✘||
+|179|云天励飞|天书|广东深圳|政务|✘||
+|180|北京理工大学东南信息技术研究院|明德|福建莆田|通用|MindLLM|
+|181|恩博科技|林海思绪|江苏南京|林业|✘|南京恩博科技、中国林业科学研究院资源信息研究所、东北林业大学、南京林业大学联合发布了“多模态、行业级应用增强大模型——[林海思绪大模型1.0](https://mp.weixin.qq.com/s/zi3GdZ9G69gs81jIkHAmVA)”|
+|182|亿嘉和|YJH-LM|江苏南京|消费电子|✘|YJH-LM技术已在商用清洁机器人上完成功能测试|
+|183|大华股份|星汉|浙江杭州|城市治理|✘|以视觉为核心，融合多模态能力，构建面向行业的大模型|
+|184|福建医科大学孟超肝胆医院|福建福州|孟超|医疗|✘|面向肝病和肝癌的医疗大模型|
+|185|中文在线|中文逍遥|北京|文旅|✘|小说创作|
+
+
+
 
 
 
@@ -211,11 +231,13 @@
 |Intel|Aurora genAI||
 |UC Berkeley, Microsoft Research|[Gorilla](https://gorilla.cs.berkeley.edu/)||
 |inflection.ai|[Inflection-1](https://inflection.ai/inflection-1)|
-|xAI||[从OpenAI 到xAI](https://mp.weixin.qq.com/s/SJvuRIPG8K0Hg15gbqCN4w)|
+|xAI|Grōk|[从OpenAI 到xAI](https://mp.weixin.qq.com/s/SJvuRIPG8K0Hg15gbqCN4w)|
 |cohere|[Cohere](https://cohere.com/)||
 |Scale AI|[Scale](https://scale.com/)||
 |character ai|[Character](https://beta.character.ai/)||
 |Colossal-AI|[ColossalChat](https://chat.colossalai.org/)||
+|Nvidia|[ChipNeMo](https://d1qx31qr3h6wln.cloudfront.net/publications/ChipNeMo%20%2824%29.pdf)||
+
 
 
 

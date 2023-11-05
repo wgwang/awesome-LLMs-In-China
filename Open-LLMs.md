@@ -31,7 +31,8 @@
 |19|XVERSE|13B|1.4T||
 |20|Aquila|7B||悟道·天鹰|
 |21|Prithvi|||IBM+NASA,地理空间，100M（图片）|
-
+|22|[Skywork](Open-LLMs/skywork.md)|13B|3.2T|昆仑万维·天工|
+|23|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|1.3B,6.7B,33B|2T|Deepseek Coder comprises a series of code language models trained on both 87% code and 13% natural language in English and Chinese, with each model pre-trained on 2T tokens.|
 ## 非基础大模型
 - WizardLM，WizardMath，WizardCoder
 - Alpaca
