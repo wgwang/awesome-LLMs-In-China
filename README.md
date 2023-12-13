@@ -1,19 +1,32 @@
 # 中国大模型列表
 
-旨在记录中国大模型发展情况，欢迎提供
+中国大模型列表大全，全面收集有明确来源的大模型情况，包括机构、来源信息和分类等，随时更新。
 
-- *线索*
-- *材料*
-- *PR*
-- *Issue*
+旨在记录中国大模型发展情况，欢迎在**Issues**中提供提供**线索**和**素材**
 
-本仓库同时持续深度分析[**开源开放的大模型**](./Open-LLMs.md)以及[数据集](./Datasets.md)的情况。
+使用数据请注明来源：**微信公众号：走向未来** 和 **仓库：https://github.com/wgwang/awesome-LLMs-In-China**
 
-使用数据请注明来源：**走向未来公众号** 和 **<https://github.com/wgwang/LLMs-In-China>**。
 
-微信扫码关注我的公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。必须用扫码，微信内置的识别是无法识别的，长按可识别的二维码见文末。
+Awesome family related to LLMS includes:
+- https://github.com/wgwang/awesome-LLM-benchmarks
+- https://github.com/wgwang/awesome-LLMs-In-China
+- https://github.com/wgwang/awesome-open-foundation-models
+
+
+大模型相关的Awesome系列包括：
+- 大模型评测数据集：
+  https://github.com/wgwang/awesome-LLM-benchmarks
+- 中国大模型列表：
+  https://github.com/wgwang/awesome-LLMs-In-China
+- 开源开放基础大模型列表：
+  https://github.com/wgwang/awesome-open-foundation-models
+
+
+微信扫码关注我的微信公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。
 
 ![](imgs/走向未来8.jpg)  
+
+**Star一下，举手之劳！**
 
 
 ## 大模型列表
