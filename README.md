@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Awesome LLMs in China</h1>
-    <h1>中国大模型列表</h1>
+    <h1>Awesome LLMs in China (中国大模型列表)</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
