@@ -36,7 +36,7 @@
 |13|复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|上海|科研|✔|[试用需账号](https://moss.fastnlp.top/)|
 |14|智源人工智能研究院|[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila),[悟道·EMU](https://github.com/baaivision/Emu)|北京|通用|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099),[HuggingFace](https://huggingface.co/BAAI),[EMU](https://huggingface.co/BAAI/Emu)基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
 |15|浙江大学|[启真](https://github.com/CMKRG/QiZhenGPT),[TableGPT](https://github.com/syw1996/TableGPT),[智海-录问](https://github.com/zhihaiLLM/wisdomInterrogatory),[智海-三乐](),[PromptProtein](https://github.com/HICAI-ZJU/PromptProtein)|浙江杭州|垂直|✔|医学大模型提供基于LLaMA-7B、CaMA-13B和ChatGLM-6B 三个版本,用于PromptProtein的[模型](https://github.com/HICAI-ZJU/OpenProtein)，法律大模型智海-录问基于[Baichuan-7B](https://mp.weixin.qq.com/s/3PrA60M2T_lyCI25UXhIxg)，智海-三乐基于Qwen-7B|
-|16|OpenBMB|[CPM](https://live.openbmb.org/),[CPM-Bee](https://github.com/OpenBMB/CPM-Bee)|北京|通用|✔|[面壁智能](https://modelbest.cn/),[CPM-Bee-10B](https://huggingface.co/openbmb/cpm-bee-10b)|
+|16|面壁智能|[CPM](https://live.openbmb.org/),[CPM-Bee](https://github.com/OpenBMB/CPM-Bee)|北京|通用|✔|[面壁智能](https://modelbest.cn/),[CPM-Bee-10B](https://huggingface.co/openbmb/cpm-bee-10b),OpenBMB|
 |17|元象科技|[XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)|广东深圳|通用|✔|[模型下载](https://huggingface.co/xverse/XVERSE-13B)|
 |18|腾讯|[混元](https://hunyuan.tencent.com/)|广东深圳 |通用|✔ | |
 |19|云知声|[山海](https://shanhai.unisound.com/) | 北京|医学|✔||
@@ -56,7 +56,7 @@
 |33|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|金融|✔|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |34|度小满|[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|金融|✔|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |35|北京交通大学|[致远](https://github.com/DUOMO/TransGPT)|北京|交通|✔|[TransGPT・致远](https://huggingface.co/DUOMO-Lab/TransGPT-v0)，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)-7B|
-|36|恒生电子|LightGPT|浙江杭州|金融|✘| [与浙大合作的NL2SQL](https://arxiv.org/abs/2307.07306)|
+|36|恒生电子|[LightGPT](https://www.hundsun.com/lightgpt)|浙江杭州|金融|✔| [与浙大合作的NL2SQL](https://arxiv.org/abs/2307.07306)|
 |37|上海交通大学|[K2](https://github.com/davendw49/k2),[白玉兰](https://mp.weixin.qq.com/s/3eON8L4b7-d-1URwgdR6Bg)|上海|K2:地球科学，白玉兰:科学|✔|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
 |38|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|北京|医学|✔|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |39|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|医学|✔|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
@@ -64,9 +64,9 @@
 |41|艾写科技|[Anima](https://github.com/lyogavin/Anima)|浙江杭州|营销|✔|基于Guanaco->基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，使用QLoRA|
 |42|澳门理工大学|[XrayGLM](https://github.com/WangRongsheng/XrayGLM),[IvyGPT](https://github.com/WangRongsheng/IvyGPT)|澳门|医疗|✔|IvyGPT基于ChatGLM2，XrayGLM基于VisualGLM-6B|
 |43|北京语言大学 |[桃李](https://github.com/blcuicall/taoli) |北京|教育|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),北语+清华+东北、北京交大|
-|44|中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|北京|工业|✘|与复旦NLP实验室联合，工业领域|
+|44|零一万物|[Yi](https://github.com/01-ai/Yi)|北京|通用|✔||
 |45|稀宇科技|[ABAB](https://api.minimax.chat/)|上海|通用|✔|GLOW虚拟社交,MiniMax|
-|46|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg)|广东深圳|客服 |✘ | |
+|46|中工互联|[智工](https://mp.weixin.qq.com/s/ANsZeqj4V_NeVCquwX-aSQ)|北京|工业|✘|与复旦NLP实验室联合，工业领域|
 |47|智慧眼|[砭石](https://mp.weixin.qq.com/s/lid0nUBwXEdoUhnw_guteA)|湖南长沙|医学|✘|医疗领域|
 |48|香港科技大学|[罗宾Robin](https://huggingface.co/OptimalScale)|香港|科研|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA),[港科大开源LMFlow](https://github.com/OptimalScale/LMFlow)|
 |49|网易有道|[子曰](https://aicenter.youdao.com/)|北京|教育|✔|推荐[有道速读](https://read.youdao.com/),读论文的利器|
@@ -89,7 +89,7 @@
 |66|云从科技|[从容](https://www.cloudwalk.com/news/show/id/178)|广东广州|政务|✔||
 |67|浪潮信息|[源](https://air.inspur.com/) |山东济南|通用|✘|[源](https://github.com/Shawn-Inspur/Yuan-1.0)|
 |68|中国农业银行|[小数ChatABC](https://mp.weixin.qq.com/s/CXyZRIqhwrcGAKxzUC-qgg) |北京|金融|✘| |
-|69|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京|运维|✔| |
+|69|追一科技|[博文Bowen](https://mp.weixin.qq.com/s/cYVh6K6edmColgMEOaGFKg)|广东深圳|客服 |✘ | |
 |70|台智云|[福尔摩斯FFM](https://tws.twcc.ai/afs/) |台湾|工业|✔|华硕子公司|
 |71|医联科技|[medGPT](https://www.medlinker.com/news/198)|四川成都|医学|✘| |
 |72|电信智科|[星河](https://mp.weixin.qq.com/s/ntd0z5CJOY6peou4bOVJqA)|北京|通信|✘|通用视觉，中国电信|
@@ -121,7 +121,7 @@
 |98|电科太极 |[小可](https://mp.weixin.qq.com/s/8ci7g7R9j3pxkQC4UOLh2A) |北京|政务|✘|党政企行业应用 |
 |99|中国移动|九天,九天•众擎| 北京|通信|✘|九天•众擎基座大模型|
 |100|中国电信|TeleChat,启明|北京|通信|✘|“启明”网络大模型|
-|101|容联云|赤兔|北京|客服|✘|客服，营销|
+|101|麒麟合盛 |[天燕AiLMe](https://www.apusai.com/) |北京|运维|✔| |
 |102|理想科技|大道Dao|北京|运维|✘|运维大模型|
 |103|乐言科技|乐言 |上海 |客服| ✘| |
 |104|沪渝人工智能研究院|[兆言](https://mp.weixin.qq.com/s/RtcdWGrfIW5unyvxVplCSg)|重庆|科研|✘|也称：上海交通大学重庆人工智能研究院|
@@ -209,7 +209,7 @@
 |186|CCAI宁波中心|iChainGPT|浙江宁波|企业服务|✘|产业链大模型iChainGPT|
 |187|光启慧语|光语|上海|医疗|✘|光启慧语正式发布了与复旦大学附属中山医院（以下简称 " 中山医院 "）联合开发的多模态医疗大模型|
 |188|安恒信息|恒脑|浙江杭州|信息安全|✘|恒脑安全大模型具备恶意代码检测、威胁情报分析、自动化安全编排响应和安全教育等能力|
-
+|189|容联云|赤兔|北京|客服|✘|客服，营销|
 
 
 
