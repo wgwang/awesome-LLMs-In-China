@@ -63,14 +63,14 @@ Awesome family related to LLMS includes:
 |27|中国科学院计算技术研究所|[百聆](https://github.com/ictnlp/BayLing)|北京|科研|✔|基于 [LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，权重Diff下载[7B](https://huggingface.co/ICTNLP/bayling-7b-diff)和[13B](https://huggingface.co/ICTNLP/bayling-13b-diff),[demo](http://nlp.ict.ac.cn/bayling/demo/) |
 |28|好未来|[MathGPT](https://www.mathgpt.com/) |北京|教育|✔|学而思|
 |29|晓多科技+国家超算成都中心|[晓模型XPT](https://xpt.xiaoduoai.com)|四川成都|客服|✔|[试用申请](https://xpt.xiaoduoai.com/)|
-|30|昆仑万维 | [天工Skywork](https://github.com/SkyworkAI/Skywork)| 北京|通用|✔|开源且可商用，无需单独申请，Skywork是由昆仑万维集团·天工团队开发的一系列大型模型，本次开源的模型有Skywork-13B-Base模型、Skywork-13B-Chat模型、Skywork-13B-Math模型和Skywork-13B-MM模型，以及每个模型的量化版模型|
+|30|昆仑万维 | [天工Skywork](https://github.com/SkyworkAI/Skywork)| 北京|通用|✔|开源且可商用，无需单独申请，Skywork是由昆仑万维集团·天工团队开发的一系列大型模型，本次开源的模型有Skywork-13B-Base模型、Skywork-13B-Chat模型、Skywork-13B-Math模型和Skywork-13B-MM模型|
 |31|中国科学院成都计算机应用研究所|[聚宝盆](https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese)|四川成都|金融|✔|基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的金融大模型|
 |32|华南理工大学|[扁鹊](https://github.com/scutcyr/BianQue),[灵心SoulChat](https://github.com/scutcyr/SoulChat)|广东广州|医学|✔| |
 |33|虎博科技|[TigerBot](https://github.com/TigerResearch/TigerBot)|上海|金融|✔|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |34|度小满|[轩辕](https://huggingface.co/xyz-nlp/XuanYuan2.0) |北京|金融|✔|基于[BLOOM](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |35|北京交通大学|[致远](https://github.com/DUOMO/TransGPT)|北京|交通|✔|[TransGPT・致远](https://huggingface.co/DUOMO-Lab/TransGPT-v0)，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)-7B|
 |36|恒生电子|[LightGPT](https://www.hundsun.com/lightgpt)|浙江杭州|金融|✔| [与浙大合作的NL2SQL](https://arxiv.org/abs/2307.07306)|
-|37|上海交通大学|[K2](https://github.com/davendw49/k2),[白玉兰](https://mp.weixin.qq.com/s/3eON8L4b7-d-1URwgdR6Bg)|上海|K2:地球科学，白玉兰:科学|✔|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
+|37|上海交通大学|[白玉兰](https://mp.weixin.qq.com/s/3eON8L4b7-d-1URwgdR6Bg)|上海|科学|✔|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
 |38|左手医生|[左医GPT](https://mp.weixin.qq.com/s/Tv9nIG_9K-Lf5AKatjichA)|北京|医学|✔|医疗，[试用需Key](https://gpt.zuoshouyisheng.com/)|
 |39|上海科技大学|[DoctorGLM](https://github.com/xionghonglin/DoctorGLM)|上海|医学|✔|医学大模型，[论文](https://arxiv.org/pdf/2304.01097.pdf)|
 |40|华东师范大学 |[EmoGPT](https://mp.weixin.qq.com/s/xP-qm5YUj8fZD9YQ7t08NQ),[EduChat](https://github.com/icalk-nlp/EduChat)|上海|教育| ✘|EmoGPT是上海市心理健康与危机干预重点实验室与镜象科技公司合作完成, 教学教育大模型EduChat基于BELLE（BELLE基于LLaMA）|
@@ -238,6 +238,8 @@ Awesome family related to LLMS includes:
 |201|华东师范大学化学与分子工程学院|ChemGPT|上海|科研|✘| |
 |202|百度|[灵医Bot](https://01.baidu.com/)|北京|医疗|✔|基于文心一言|
 |203|上海市人工智能实验室|[OpenMEDLab浦医](https://github.com/openmedlab)|上海|医疗|✔||
+|204|上海交通大学|[K2](https://github.com/davendw49/k2)|上海|地球科学|✔|[Demo](https://k2.acemap.info/)，GeoLLaMA，基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，[HuggingFace](https://huggingface.co/daven3/k2_it_adapter) |
+
 
 
 
@@ -255,7 +257,7 @@ Awesome family related to LLMS includes:
 |:-|:-|:-|
 |OpenAI|[ChatGPT](https://chat.openai.com/chat)| ChatGPT-4支持Plugins，Code Interpreter|
 |微软|[Bing Chat](https://bing.com/chat)|搜索增强，有三种模式|
-|Google|[PaLM2](https://ai.google/discover/palm2),[Bard](https://bard.google.com/),[Gemini](https://mp.weixin.qq.com/s/IpDC3qv0xHhZAY5JgRKlvg)|Bard支持图片内容识别，包括OCR等|
+|Google|[PaLM2](https://ai.google/discover/palm2),[Bard](https://bard.google.com/),[Gemini多模态大模型](https://mp.weixin.qq.com/s/IpDC3qv0xHhZAY5JgRKlvg)|Gemini技术报告：[英文版](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf),中文版[Part1](https://mp.weixin.qq.com/s/fcsbsveTkdADpaTnAuA6DA)、[Part2](https://mp.weixin.qq.com/s/tYp9wOnIkK0LpL2ne8rybA)、[Part3](https://mp.weixin.qq.com/s/zyqgoGkXLvtAC7miD5K7wQ)|
 |Anthropic|[Claude](https://claude.ai/)|Claude 2,支持读入pdf、txt、csv等文件进行分析、总结和问答等|
 |Meta|[LLaMA](https://github.com/facebookresearch/llama),[LLaMA-2](https://huggingface.co/meta-llama), CodeLLaMA|最强开源开放大模型，月活用户小于7亿的组织和个人可随意商用|
 |Stability AI|[StableLM](https://github.com/Stability-AI/StableLM)||
