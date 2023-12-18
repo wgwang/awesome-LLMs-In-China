@@ -34,26 +34,26 @@ Awesome family related to LLMS includes:
 
 |序号|公司|大模型|省市|类别|官网|说明|
 |:-|:-|:-|:-|:-|:-|:-|
-|1|百度| [文心一言](https://yiyan.baidu.com)|北京|通用|✔|有APP，衍生[灵医Bot](https://01.baidu.com/)|
-|2|智谱华章|[清言](https://chatglm.cn/)|北京|通用|✔|有APP，开源小模型[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)和[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|
+|1|百度| [文心一言](https://yiyan.baidu.com)|北京|通用|✔|有APP|
+|2|智谱华章|[清言](https://chatglm.cn/)|北京|通用|✔|有APP，开源模型[ChatGLM3-6B](https://github.com/THUDM/ChatGLM3), [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)和[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|
 |3|百川智能|[百川](https://chat.baichuan-ai.com/)|北京|通用|✔|开源小模型[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B)和[Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)，[baichuan-2](https://github.com/baichuan-inc/Baichuan2)|
 |4|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|工业|✔|[试用需账号](https://aigc.datagrand.com/) |
-|5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源小模型[书生·浦语](https://github.com/InternLM/InternLM)，[OpenMEDLab浦医](https://github.com/openmedlab)|
-|6|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
+|5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源模型[书生·浦语-7B,20B](https://github.com/InternLM/InternLM)|
+|6|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|有APP|
 |7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|浙江杭州|代码|✔||
 |8|商汤科技| [日日新](https://techday.sensetime.com/)| 上海|通用|✔||
-|9|春田知韵（抖音）|[豆包](https://www.doubao.com/chat/)|北京|通用|✔|开源多模态7B小模型[BuboGPT](https://bubo-gpt.github.io/)，豆包是云雀的聊天机器人|
+|9|春田知韵（抖音）|[豆包](https://www.doubao.com/chat/)|北京|通用|✔|开源多模态7B模型[BuboGPT](https://bubo-gpt.github.io/)，豆包是云雀的聊天机器人|
 |10|中国科学院自动化研究所| [紫东·太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|通用|✔|紫东太初2.0号称100B参数，全模态|
-|11|阿里云|[通义千问](https://tongyi.aliyun.com/)|浙江杭州|通用|✔|[试用需账号]( https://tongyi.aliyun.com),开源小模型[Qwen-7B](https://github.com/QwenLM/Qwen-7B)和[Qwen-7B-Chat](https://huggingface.co/Qwen/Qwen-7B-Chat)|
+|11|阿里云|[通义千问](https://tongyi.aliyun.com/)|浙江杭州|通用|✔|开源模型[Qwen-1.8B,7B,14B,72B](https://github.com/QwenLM/Qwen)、[Qwen-VL](https://github.com/QwenLM/Qwen-VL)和[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|
 |12|华为|[盘古](https://openi.pcl.ac.cn/PCL-Platform.Intelligence/PanGu-Alpha),[盘古气象](https://www.nature.com/articles/s41586-023-06185-3),[盘古-Σ](https://arxiv.org/pdf/2303.10845.pdf)|广东深圳|工业|✔|华为+鹏城,[华为云盘古](https://www.huaweicloud.com/product/pangu.html)|
 |13|复旦大学|[MOSS](https://github.com/OpenLMLab/MOSS)|上海|科研|✔|[试用需账号](https://moss.fastnlp.top/)|
 |14|智源人工智能研究院|[悟道·天鹰](https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila),[悟道·EMU](https://github.com/baaivision/Emu)|北京|通用|✔|悟道3.0,视界视觉，AQUILA天鹰座，[Aquila-7B](https://model.baai.ac.cn/model-detail/100098),[AquilaChat-7B](https://model.baai.ac.cn/model-detail/100101),[AquilaCode-7B-NV](https://model.baai.ac.cn/model-detail/100102),[AquilaCode-7B-TS](https://model.baai.ac.cn/model-detail/100099),[HuggingFace](https://huggingface.co/BAAI),[EMU](https://huggingface.co/BAAI/Emu)基于[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
 |15|浙江大学|[启真](https://github.com/CMKRG/QiZhenGPT),[TableGPT](https://github.com/syw1996/TableGPT),[智海-录问](https://github.com/zhihaiLLM/wisdomInterrogatory),[智海-三乐](),[PromptProtein](https://github.com/HICAI-ZJU/PromptProtein)|浙江杭州|垂直|✔|医学大模型提供基于LLaMA-7B、CaMA-13B和ChatGLM-6B 三个版本,用于PromptProtein的[模型](https://github.com/HICAI-ZJU/OpenProtein)，法律大模型智海-录问基于[Baichuan-7B](https://mp.weixin.qq.com/s/3PrA60M2T_lyCI25UXhIxg)，智海-三乐基于Qwen-7B|
 |16|面壁智能|[CPM](https://live.openbmb.org/),[CPM-Bee](https://github.com/OpenBMB/CPM-Bee)|北京|通用|✔|[面壁智能](https://modelbest.cn/),[CPM-Bee-10B](https://huggingface.co/openbmb/cpm-bee-10b),OpenBMB|
-|17|元象科技|[XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B)|广东深圳|通用|✔|[模型下载](https://huggingface.co/xverse/XVERSE-13B)|
+|17|元象科技|[XVERSE-7B](https://github.com/xverse-ai/XVERSE-7B), [XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B), [XVERSE-65B](https://github.com/xverse-ai/XVERSE-65B)|广东深圳|通用|✔||
 |18|腾讯|[混元](https://hunyuan.tencent.com/)|广东深圳 |通用|✔ | |
 |19|云知声|[山海](https://shanhai.unisound.com/) | 北京|医学|✔||
-|20|东北大学|[TechGPT](https://github.com/neukg/TechGPT),[PICA](https://github.com/NEU-DataMining/PICA)|辽宁沈阳|科研|✔|TechGPT->BELLE->[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，图谱构建和阅读理解问答;PICA->ChatGLM2-6B情感大模型|
+|20|东北大学|[TechGPT-2.0](https://github.com/neukg/TechGPT-2.0), [TechGPT](https://github.com/neukg/TechGPT),[PICA](https://github.com/NEU-DataMining/PICA)|辽宁沈阳|科研|✔|TechGPT->BELLE->[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)，图谱构建和阅读理解问答;PICA->ChatGLM2-6B情感大模型|
 |21|IDEA研究院|[封神榜MindBot](https://fengshenbang-lm.com/),[ziya-coding](https://huggingface.co/IDEA-CCNL/Ziya-Coding-15B-v1) |广东深圳|通用|✔|[姜子牙](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1)系列模型 ,ziya-coding代码大模型|
 |22|贝壳|[BELLE](https://github.com/LianjiaTech/BELLE)|北京|垂直|✔|基于BLOOMZ或[LLaMA](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)的多个模型|
 |23|360| [智脑](https://ai.360.cn/),[一见](https://github.com/360CVGroup/SEEChat)| 北京|通用|✔||
@@ -109,7 +109,7 @@ Awesome family related to LLMS includes:
 |73|深思考人工智能|[Dongni](https://www.dongni.ai/)|北京|媒体|✔| |
 |74|文因互联|文因|安徽合肥|金融|✘| 金融大模型|
 |75|印象笔记|[大象GPT](https://mp.weixin.qq.com/s/O3nRSKBM29bCWKuRRi_PBg)|北京 |媒体| ✘| |
-|76|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|媒体|✘||
+|76|中科闻歌|[雅意](https://yayi.wenge.com/)|北京|通用|✔|[雅意2.0：参数30B，240TB多源基础数据，2.65T词元](https://mp.weixin.qq.com/s/lSqI6yRhkrTY4PjYE7zHYQ), [雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|
 |77|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|金融|✔||
 |78|京东|[言犀](https://www.jdcloud.com/cn/news/detail/1235)|北京|商业|✘||
 |79|香港中文大学|[PointLLM](https://github.com/OpenRobotLab/PointLLM)|香港|通用|✔|港中文+上海AI实验室+浙大|
@@ -165,7 +165,7 @@ Awesome family related to LLMS includes:
 |129|云问科技|云中问道|江苏南京|营销|✘|与西安未来AI计算中心联合发布|
 |130|天壤智能|小白|上海|通用|✘| |
 |131|小米|MiLM-6B|北京|商业|✘| |
-|132|长虹|长虹超脑 |四川绵阳|媒体|✘| |
+|132|长虹|长虹超脑，云帆|四川绵阳|媒体|✘| |
 |133|开普云|[开悟](https://www.kaipuyun.cn/kp/c100630/kaiwu.shtml)|广东东莞|政务|✔| |
 |134|赛灵力科技 |达尔文|广东广州|医学|✘|赛灵力,清华珠三角研究院,赛业生物,大湾区科技创新服务中心|
 |135|航旅纵横|千穰大模型|北京|民航|✘|航旅纵横APP上需要PLUS会员才能使用|
@@ -223,6 +223,24 @@ Awesome family related to LLMS includes:
 |187|光启慧语|光语|上海|医疗|✘|光启慧语正式发布了与复旦大学附属中山医院（以下简称 " 中山医院 "）联合开发的多模态医疗大模型|
 |188|安恒信息|恒脑|浙江杭州|信息安全|✘|恒脑安全大模型具备恶意代码检测、威胁情报分析、自动化安全编排响应和安全教育等能力|
 |189|容联云|赤兔|北京|客服|✘|客服，营销|
+|190|华中科技大学|[Monkey](https://github.com/Yuliang-Liu/Monkey)|湖北武汉|通用|✔|多模态，开源|
+|191|南京农业大学|[荀子](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM)|江苏南京|文旅|✔|中国古代典籍跨语言知识库构建及应用研究，基于QWen-7B，开源|
+|192|瑞金医学|RJH|上海|医疗|✘|RJH-Base基座大模型、RJH-Med应用大模型，以及多模态大模型|
+|192|海通证券|泛海言道|上海|金融|✘| |
+|193|复旦DISC|[DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM)|上海|金融|✔|基于Baichuan-13B-Chat|
+|194|南方科技大学|[SUS-Chat-34B](https://wisemodel.cn/models/SUSTech/SUS-Chat-34B) |广东广州|通用|✔|基于Yi-34B，使用1.4B token的高质量复杂指令数据微调|
+|195|招商轮船|ShippingGPT|广东深圳|航运|✘| |
+|196|厦门大学|南强·慧眼|福建厦门|航运|✘| |
+|197|康亲控股|保生·妙算|福建厦门|医疗|✘| |
+|198|九思软件|智联|北京|企业管理|✘| |
+|199|丽阳神州|丽阳神州|山东济南|家政|✘| |
+|200|香港科技大学|[InvestLM](https://github.com/AbaciNLP/InvestLM)|香港|金融|✔|基于LLaMA-65B|
+|201|华东师范大学化学与分子工程学院|ChemGPT|上海|科研|✘| |
+|202|百度|[灵医Bot](https://01.baidu.com/)|北京|医疗|✔|基于文心一言|
+|203|上海市人工智能实验室|[OpenMEDLab浦医](https://github.com/openmedlab)|上海|医疗|✔||
+
+
+
 
 
 
