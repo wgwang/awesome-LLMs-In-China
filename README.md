@@ -223,6 +223,7 @@ Awesome family related to LLMS includes:
 |187|光启慧语|光语|上海|医疗|✘|光启慧语正式发布了与复旦大学附属中山医院（以下简称 " 中山医院 "）联合开发的多模态医疗大模型|
 |188|安恒信息|恒脑|浙江杭州|信息安全|✘|恒脑安全大模型具备恶意代码检测、威胁情报分析、自动化安全编排响应和安全教育等能力|
 |189|容联云|赤兔|北京|客服|✘|客服，营销|
+|190|华东理工大学|[MindChat](https://github.com/X-D-Lab/MindChat), [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao)|上海|心理、医疗|✔|漫谈心理大模型、孙思邈医疗大模型|
 
 
 
