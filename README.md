@@ -279,6 +279,7 @@ Awesome family related to LLMS includes:
 |241|格创东智|章鱼智脑|广东广州|工业制造|✘|工业智能大模型引擎底座——章鱼智脑OctopusGPT|
 |242|浙江大学|智海-金磐|浙江杭州|金融|✘||
 |243|中国农业大学|神农|北京|农业|✘||
+|244|思维链智能|[CotGPT]([https://mp.weixin.qq.com/s/H8FsrEyJsIijy0Cowyu3GQ](https://mp.weixin.qq.com/s?src=11&timestamp=1708607037&ver=5096&signature=4iCO6D4jIiWwcxibmv*0Uw63ccEHdX5BIoeFqI0MwGkWiVciQeEM4-8hW1N9-0z8EXXSEHSofEhEuleToXBUW-xcz5uHarC76R0MYfV*1ezNzwXEuu2vSJN8GREWXLKW&new=1))|天津|行业大模型|✔|泛领域行业 |
 
 
 
