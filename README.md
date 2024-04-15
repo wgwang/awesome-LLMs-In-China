@@ -173,7 +173,7 @@ Awesome family related to LLMS includes:
 |137|车之谷|叆谷|山东青岛|汽车|✘|汽车后服务加油站场景|
 |138|索贝时代|明眸|四川成都|媒体|✘| |
 |139|华东师范大学心理健康与危机干预重点实验室|[EmoGPT](https://mp.weixin.qq.com/s/xP-qm5YUj8fZD9YQ7t08NQ)|上海|医疗|✘|EmoGPT是上海市心理健康与危机干预重点实验室与镜象科技公司合作完成|
-|140|南方科技大学|[SUS-Chat-34B](https://wisemodel.cn/models/SUSTech/SUS-Chat-34B) |广东广州|通用|✔|基于Yi-34B，使用1.4B token的高质量复杂指令数据微调|
+|140|南方科技大学|[SUS-Chat-34B](https://wisemodel.cn/models/SUSTech/SUS-Chat-34B) |广东深圳|通用|✔|基于Yi-34B，使用1.4B token的高质量复杂指令数据微调|
 |141|复旦DISC|[DISC-FinLLM](https://github.com/FudanDISC/DISC-FinLLM)|上海|金融|✔|基于Baichuan-13B-Chat|
 |142|蚂蚁集团|[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model)|浙江杭州|运维|✔|基于Qwen的中文开发运维大模型（7B，14B）|
 |143|中国科学技术大学|[ChiMed-GPT](https://github.com/synlp/ChiMed-GPT)|安徽合肥|医疗|✔|基于 Ziya-v2 的中文医疗大型语言模型|
