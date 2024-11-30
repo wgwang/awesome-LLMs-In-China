@@ -280,7 +280,7 @@ Awesome family related to LLMS includes:
 |242|浙江大学|智海-金磐|浙江杭州|金融|✘||
 |243|中国农业大学|神农|北京|农业|✘||
 |244|山西大学、山西农业大学|[后稷](https://github.com/zhiweihu1103/AgriMa)|太原|农业|✘|| 基于[Baichuan](https://huggingface.co/baichuan-inc)
-
+|245|山西农业大学|[稷丰](https://github.com/zhiweihu1103/AgriAgent)|太原|农业|✘|| 基于[MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V)
 
 
 ## 国外大模型
