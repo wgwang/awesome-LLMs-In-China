@@ -40,7 +40,7 @@ Awesome family related to LLMS includes:
 |4|阿里云|[通义千问](https://tongyi.aliyun.com/)|浙江杭州|通用|✔|开源模型[Qwen-1.8B,7B,14B,72B](https://github.com/QwenLM/Qwen)、[Qwen-VL](https://github.com/QwenLM/Qwen-VL)和[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|
 |5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源模型[书生·浦语-7B,20B](https://github.com/InternLM/InternLM)|
 |6|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|工业|✔|[试用需账号](https://aigc.datagrand.com/) |
-|7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|浙江杭州|代码|✔||
+|7|深度求索|[Deepseek](https://chat.deepseek.com)|浙江杭州|通用|✔||
 |8|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|有APP|
 |9|春田知韵（抖音）|[豆包](https://www.doubao.com/chat/)|北京|通用|✔|开源多模态7B模型[BuboGPT](https://bubo-gpt.github.io/)，豆包是云雀的聊天机器人|
 |10|中国科学院自动化研究所| [紫东·太初](https://gitee.com/zidongtaichu/multi-modal-models)|北京|通用|✔|紫东太初2.0号称100B参数，全模态|
