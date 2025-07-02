@@ -5,11 +5,7 @@
 旨在记录中国大模型发展情况，欢迎在**Issues**中提供提供**线索**和**素材**
 
 使用数据请注明来源：**微信公众号：走向未来** 和 **仓库：https://github.com/wgwang/awesome-LLMs-In-China**
-
-
-Awesome family related to LLMS includes:
-- https://github.com/wgwang/awesome-LLM-benchmarks
-- https://github.com/wgwang/awesome-LLMs-In-China
+In-China
 - https://github.com/wgwang/awesome-open-foundation-models
 
 
