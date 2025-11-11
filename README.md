@@ -11,6 +11,7 @@ Awesome family related to LLMS includes:
 - https://github.com/wgwang/awesome-LLM-benchmarks
 - https://github.com/wgwang/awesome-LLMs-In-China
 - https://github.com/wgwang/awesome-open-foundation-models
+- https://github.com/ScrapeGraphAI/toonify - TOON format: Compact data serialization reducing LLM token usage by 30-60%
 
 
 大模型相关的Awesome系列包括：
@@ -20,6 +21,8 @@ Awesome family related to LLMS includes:
   https://github.com/wgwang/awesome-LLMs-In-China
 - 开源开放基础大模型列表：
   https://github.com/wgwang/awesome-open-foundation-models
+- TOON格式工具（减少30-60%的LLM token使用）：
+  https://github.com/ScrapeGraphAI/toonify
 
 
 微信扫码关注我的微信公众号：**走向未来**，分享有关大模型、AGI、知识图谱、深度学习、强化学习、计算机视觉、自然语言处理等等与人工智能有关的内容。
