@@ -29,6 +29,7 @@ Awesome family related to LLMS includes:
 **Star一下，举手之劳！**
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=wgwang_awesome-LLMs-In-China) - Follow AI researchers on GitHub and see what repos they star. Things move fast, this helps.
 ## 大模型列表
 
 
