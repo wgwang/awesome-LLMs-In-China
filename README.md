@@ -328,4 +328,4 @@ Awesome family related to LLMS includes:
 - 其他一些关于神经科学、脑科学和哲学中对智能的思考
   
 ![](imgs/kgbook.png)
-
+- [BenchGecko](https://benchgecko.ai/zh/) - 全球AI模型基准评测排行榜，跨供应商定价对比，AI经济追踪。中文界面，免费API。
