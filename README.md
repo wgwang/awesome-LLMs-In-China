@@ -283,6 +283,10 @@ Awesome family related to LLMS includes:
 |245|山西农业大学|[稷丰](https://github.com/zhiweihu1103/AgriAgent)|太原|农业|✘|| 基于[MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V)
 
 
+## AI模型目录
+
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. First-party data only. Includes interactive catalog, JSON/CSV/npm/GitHub Action.
+
 ## 国外大模型
 
 
