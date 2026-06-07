@@ -306,6 +306,7 @@ Awesome family related to LLMS includes:
 |character ai|[Character](https://beta.character.ai/)||
 |Colossal-AI|[ColossalChat](https://chat.colossalai.org/)||
 |Nvidia|[ChipNeMo](https://d1qx31qr3h6wln.cloudfront.net/publications/ChipNeMo%20%2824%29.pdf)||
+|[Das-rebel](https://github.com/Das-rebel)|[A3M Router](https://github.com/Das-rebel/a3m-router)|自适应多模型LLM路由器，支持47+提供商，Shapley值信用分配，博弈论风险分析，ObsidianVault记忆集成，多模态路由。RouterArena最高鲁棒性得分(0.8524)。19K+ npm下载量。|
 
 
 
