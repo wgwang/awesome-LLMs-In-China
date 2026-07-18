@@ -329,3 +329,11 @@ Awesome family related to LLMS includes:
   
 ![](imgs/kgbook.png)
 
+
+
+## 中国AI API中转/代理服务
+
+| 序号 | 服务名称 | 地址 | 说明 |
+|:---:|:---|:---|:---|
+| 1 | [JiuRelay](https://jiurelay.com) | https://jiurelay.com | 免费、免注册AI API中转，支持20+模型（Claude、GPT-4o、Gemini、DeepSeek、GLM、Kimi、通义千问、豆包），每小时自动刷新API Key，完全兼容OpenAI/Anthropic SDK |
+
