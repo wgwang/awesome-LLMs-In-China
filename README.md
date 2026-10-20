@@ -164,6 +164,8 @@ Awesome family related to LLMS includes:
 |128|金蝶|苍穹|广东深圳|企业服务|✘| |
 |129|华东理工大学X-D Lab|[漫谈](https://github.com/X-D-Lab/MindChat)|上海|医疗|✔|MindChat(漫谈): 心理大模型，基于QWen-7B|
 |130|华东理工大学X-D Lab|[孙思邈](https://github.com/X-D-Lab/Sunsimiao)|上海|医疗|✔|基于baichuan-7B|
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor)
+
 |131|小米|MiLM-6B|北京|商业|✘| |
 |132|长虹|长虹超脑，云帆|四川绵阳|媒体|✘| |
 |133|开普云|[开悟](https://www.kaipuyun.cn/kp/c100630/kaiwu.shtml)|广东东莞|政务|✔| |
