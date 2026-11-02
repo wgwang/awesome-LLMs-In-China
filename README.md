@@ -115,6 +115,9 @@ Awesome family related to LLMS includes:
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
 |79|香港中文大学|[PointLLM](https://github.com/OpenRobotLab/PointLLM)|香港|通用|✔|港中文+上海AI实验室+浙大|
 |80|清华大学|[NowcastNet](https://www.nature.com/articles/s41586-023-06184-4)|北京|科研|✔| [气象,临近预报大模型](https://mp.weixin.qq.com/s/MwJWjCLNqJM3lZ33RwK4Bg)|
 |81|鹏城实验室|鹏城·脑海|广东深圳|科研|✘|Peng Cheng Mind|
