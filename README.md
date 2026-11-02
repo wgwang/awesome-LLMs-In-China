@@ -112,6 +112,15 @@ Awesome family related to LLMS includes:
 |76|医疗算网|Uni-talk|上海|医学|✘|上海联通+华山医院+上海超算中心+华为|
 |77|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|金融|✔||
 |78|中山大学|[流萤](https://github.com/yangjianxin1/Firefly)系列|广东广州|通用|✔|微调了多个模型，如firefly-mixtral-8x7b、firefly-baichuan2-13b、Firefly-LLaMA2-Chinese等|
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 |79|香港中文大学|[PointLLM](https://github.com/OpenRobotLab/PointLLM)|香港|通用|✔|港中文+上海AI实验室+浙大|
 |80|清华大学|[NowcastNet](https://www.nature.com/articles/s41586-023-06184-4)|北京|科研|✔| [气象,临近预报大模型](https://mp.weixin.qq.com/s/MwJWjCLNqJM3lZ33RwK4Bg)|
 |81|鹏城实验室|鹏城·脑海|广东深圳|科研|✘|Peng Cheng Mind|
