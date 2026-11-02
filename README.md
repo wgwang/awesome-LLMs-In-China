@@ -118,6 +118,9 @@ Awesome family related to LLMS includes:
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 |79|香港中文大学|[PointLLM](https://github.com/OpenRobotLab/PointLLM)|香港|通用|✔|港中文+上海AI实验室+浙大|
 |80|清华大学|[NowcastNet](https://www.nature.com/articles/s41586-023-06184-4)|北京|科研|✔| [气象,临近预报大模型](https://mp.weixin.qq.com/s/MwJWjCLNqJM3lZ33RwK4Bg)|
 |81|鹏城实验室|鹏城·脑海|广东深圳|科研|✘|Peng Cheng Mind|
